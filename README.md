@@ -10,3 +10,7 @@
 
 [Коаманды SQL](https://tproger.ru/translations/sql-recap/)
 
+[Урок на youtube](https://www.youtube.com/watch?v=n9_gP_ZoviA)
+
+[Нейросимулятор](https://www.lbai.ru/#;show;install)
+
