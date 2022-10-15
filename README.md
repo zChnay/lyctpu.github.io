@@ -19,5 +19,8 @@
 
 [Логика в Excel](https://urok.1sept.ru/articles/519412?ysclid=l9987yvlcg727714146)
 
+### Web
 [Codepen](https://codepen.io/)
+
+[Wordpress](https://wordpress.com/ru/)
 
