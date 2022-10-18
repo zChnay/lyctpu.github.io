@@ -14,6 +14,10 @@
 
 [Нейросимулятор](https://www.lbai.ru/#;show;install)
 
+###Работа с БД
+[Технология создания sqlite в python](https://pythonru.com/osnovy/sqlite-v-python)
+[sql-команды](https://tproger.ru/translations/sql-recap/)
+
 ### Булева логика
 [Логика электроники](https://www.youtube.com/watch?v=rva16jfbdWE)
 
