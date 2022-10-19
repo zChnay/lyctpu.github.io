@@ -14,7 +14,7 @@
 
 [Нейросимулятор](https://www.lbai.ru/#;show;install)
 
-###Работа с БД
+### Работа с БД
 [Технология создания sqlite в python](https://pythonru.com/osnovy/sqlite-v-python)
 [sql-команды](https://tproger.ru/translations/sql-recap/)
 
