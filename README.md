@@ -23,6 +23,8 @@
 ### Работа с БД
 [Технология создания sqlite в python](https://pythonru.com/osnovy/sqlite-v-python)
 [sql-команды](https://tproger.ru/translations/sql-recap/)
+[Основы sql-запросов](https://youtu.be/_-3rTE8ygnI)
+[Sql-тренажер]()
 
 ### Булева логика
 [Логика электроники](https://www.youtube.com/watch?v=rva16jfbdWE)
