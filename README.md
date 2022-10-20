@@ -27,7 +27,7 @@
 
 [Основы sql-запросов](https://youtu.be/_-3rTE8ygnI)
 
-[Sql-тренажер]()
+[Sql-тренажер](https://github.com/lyctpu/help/blob/main/dbsql_practice.exe)
 
 ### Булева логика
 [Логика электроники](https://www.youtube.com/watch?v=rva16jfbdWE)
