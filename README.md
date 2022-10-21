@@ -1,4 +1,4 @@
-![](https://github.com/lyctpu/lyctpu.github.io/blob/main/main-logo.jpg)
+![](https://github.com/lyctpu/lyctpu.github.io/blob/main/logo.jpg)
 
 [Сайт лицея](https://portal.tpu.ru/lyceum)
 
