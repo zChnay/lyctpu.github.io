@@ -55,4 +55,4 @@
 
 ![](free-icon-codepen-2111501.png) [Codepen](https://codepen.io/)
 
-![](https://github.com/lyctpu/lyctpu.github.io/blob/main/wordpress256.png) [Wordpress](https://wordpress.com/ru/)
+![](wordpress256.png) [Wordpress](https://wordpress.com/ru/)
