@@ -8,9 +8,9 @@
 
 [Файл xls для задачи энергосбыта](https://github.com/lyctpu/help/blob/main/Исполнение_Томскэнергосбыт%20в%20ЕИС_.xls)
 
------
+
 ### Кодинг, ЕГЭ
------------
+
 [Все программирование для ЕГЭ 2ч18м](https://www.youtube.com/watch?v=iTFwN9ckS9k)
 
 [Весь python за час](https://www.youtube.com/watch?v=-v5m3XnVpC8)
@@ -23,37 +23,36 @@
 
 [Демо2023](https://github.com/pavka21/ege/blob/main/2022demo/ege2022.ipynb)
 
--------
+------
 ### Нейросети
---------
-![Урок на youtube](https://github.com/lyctpu/lyctpu.github.io/blob/main/YouTube_23392.png)
-[Эксперимент в Нейросимуляторе](https://www.youtube.com/watch?v=n9_gP_ZoviA)
+
+![Урок на youtube](https://github.com/lyctpu/lyctpu.github.io/blob/main/youtube16.png) [Эксперимент в Нейросимуляторе](https://www.youtube.com/watch?v=n9_gP_ZoviA)
 
 
 [Нейросимулятор](https://www.lbai.ru/#;show;install)
 
 -----
 ### Работа с БД
---------
+
 [Технология создания sqlite в python](https://pythonru.com/osnovy/sqlite-v-python)
 
 [sql-команды](https://tproger.ru/translations/sql-recap/)
 
-![Урок на youtube](https://github.com/lyctpu/lyctpu.github.io/blob/main/YouTube_23392.png)[Основы sql-запросов](https://youtu.be/_-3rTE8ygnI)
+![Урок на youtube](https://github.com/lyctpu/lyctpu.github.io/blob/main/youtube16.png) [Основы sql-запросов](https://youtu.be/_-3rTE8ygnI)
 
-[Sql-тренажер](https://github.com/lyctpu/help/blob/main/dbsql_client_v0.1.exe)
+[SQL-тренажер v0.1](https://github.com/lyctpu/help/blob/main/dbsql_client_v0.1.exe)
+Под правами пользователя позволяет выполнять любые запросы к БД MySQL, кроме удаления данных.
 
 ------
 ### Булева логика
---------
-![Урок на youtube](https://github.com/lyctpu/lyctpu.github.io/blob/main/YouTube_23392.png)[Логика электроники](https://www.youtube.com/watch?v=rva16jfbdWE)
+
+![Урок на youtube](https://github.com/lyctpu/lyctpu.github.io/blob/main/youtube16.png) [Логика электроники](https://www.youtube.com/watch?v=rva16jfbdWE)
 
 [Логика в Excel](https://urok.1sept.ru/articles/519412?ysclid=l9987yvlcg727714146)
 
 -----
 ### Web
----------
+
 ![](free-icon-codepen-2111501.png) [Codepen](https://codepen.io/)
 
 ![](https://github.com/lyctpu/lyctpu.github.io/blob/main/wordpress256.png) [Wordpress](https://wordpress.com/ru/)
-
