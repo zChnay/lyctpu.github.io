@@ -32,7 +32,7 @@
 
 [Основы sql-запросов](https://youtu.be/_-3rTE8ygnI)
 
-[Sql-тренажер](https://github.com/lyctpu/help/blob/main/dbsql_pr_v0.1.exe)
+[Sql-тренажер](https://github.com/lyctpu/help/blob/main/dbsql_client_v0.1.exe)
 
 ### Булева логика
 [Логика электроники](https://www.youtube.com/watch?v=rva16jfbdWE)
