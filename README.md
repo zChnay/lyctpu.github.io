@@ -1,4 +1,4 @@
-![](https://github.com/lyctpu/lyctpu.github.io/blob/main/logo.jpg)
+![](logo.jpg)
 
 [Сайт лицея](https://portal.tpu.ru/lyceum)
 
@@ -26,7 +26,7 @@
 ------
 ### Нейросети
 
-![Урок на youtube](https://github.com/lyctpu/lyctpu.github.io/blob/main/youtube16.png) [Эксперимент в Нейросимуляторе](https://www.youtube.com/watch?v=n9_gP_ZoviA)
+![Урок на youtube](youtube16.png) [Эксперимент в Нейросимуляторе](https://www.youtube.com/watch?v=n9_gP_ZoviA)
 
 
 [Нейросимулятор](https://www.lbai.ru/#;show;install)
@@ -38,7 +38,7 @@
 
 [sql-команды](https://tproger.ru/translations/sql-recap/)
 
-![Урок на youtube](https://github.com/lyctpu/lyctpu.github.io/blob/main/youtube16.png) [Основы sql-запросов](https://youtu.be/_-3rTE8ygnI)
+![Урок на youtube](youtube16.png) [Основы sql-запросов](https://youtu.be/_-3rTE8ygnI)
 
 [SQL-тренажер v0.1](https://github.com/lyctpu/help/blob/main/dbsql_client_v0.1.exe)
 Под правами пользователя позволяет выполнять любые запросы к БД MySQL, кроме удаления данных.
@@ -46,7 +46,7 @@
 ------
 ### Булева логика
 
-![Урок на youtube](https://github.com/lyctpu/lyctpu.github.io/blob/main/youtube16.png) [Логика электроники](https://www.youtube.com/watch?v=rva16jfbdWE)
+![Урок на youtube](youtube16.png) [Логика электроники](https://www.youtube.com/watch?v=rva16jfbdWE)
 
 [Логика в Excel](https://urok.1sept.ru/articles/519412?ysclid=l9987yvlcg727714146)
 
