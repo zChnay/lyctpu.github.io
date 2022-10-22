@@ -27,7 +27,8 @@
 ------
 ### Нейросети
 
-![Урок на youtube](youtube16.png) [Эксперимент в Нейросимуляторе](https://www.youtube.com/watch?v=n9_gP_ZoviA)
+![Урок на youtube](youtube16.png) 
+![Эксперимент в Нейросимуляторе](https://www.youtube.com/watch?v=n9_gP_ZoviA)
 
 
 [Нейросимулятор](https://www.lbai.ru/#;show;install)
