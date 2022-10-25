@@ -2,9 +2,14 @@
 
 [Сайт лицея](https://portal.tpu.ru/lyceum)
 
-Списки аккаунтов GH [Google таблица](http://clck.ru/326VLa)
+----------------
 
-Конструкции языка md в GH  [Оформление md](https://gist.github.com/Jekins/2bf2d0638163f1294637#Links)
+[Google таблица аккаунтов](http://clck.ru/326VLa)
+
+[Списки аккаунтов GitHub с репозиториями по группам](pavka21.github.io)
+
+
+[Оформление на языке md](https://gist.github.com/Jekins/2bf2d0638163f1294637#Links)
 
 [Файл xls для задачи энергосбыта](https://github.com/lyctpu/help/blob/main/Исполнение_Томскэнергосбыт%20в%20ЕИС_.xls)
 
@@ -27,8 +32,7 @@
 ------
 ### Нейросети
 
-![Урок на youtube](youtube16.png) 
-![Эксперимент в Нейросимуляторе](https://www.youtube.com/watch?v=n9_gP_ZoviA)
+![Урок на youtube](youtube16.png) [Эксперимент в Нейросимуляторе](https://www.youtube.com/watch?v=n9_gP_ZoviA)
 
 
 [Нейросимулятор](https://www.lbai.ru/#;show;install)
@@ -41,6 +45,7 @@
 [sql-команды](https://tproger.ru/translations/sql-recap/)
 
 ![Урок на youtube](youtube16.png) [Основы sql-запросов](https://youtu.be/_-3rTE8ygnI)
+
 ![Урок на youtube](youtube16.png) [Основы sql-запросов 2](https://www.youtube.com/watch?v=pSg8qlMXKf4)
 
 
@@ -52,8 +57,8 @@
 2. Узнать названия таблиц в БД
 3. Вывести всех пользователей
 4. Вывести все оценки
-5. Вывести людей, у которых есть оценки (общее поле user_id)
-6. Найти себя в базе по имени (поле name)
+5. Вывести людей, у которых есть оценки (запрос на 2 таблицы, общее поле в таблице users и grades - user_id)
+6. Найти себя в базе по имени (поле name для имени, поле fam для фамилии)
 6. Переписать запросы в тетрадь и в readme.md
 Под правами пользователя позволяет выполнять любые запросы к БД MySQL, кроме удаления данных.
 
