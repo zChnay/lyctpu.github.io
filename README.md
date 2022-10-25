@@ -2,14 +2,13 @@
 
 [Сайт лицея](https://portal.tpu.ru/lyceum)
 
+## [Списки аккаунтов GitHub с репозиториями по группам](https://pavka21.github.io)
+
 ----------------
 
 [Google таблица аккаунтов](http://clck.ru/326VLa)
 
 [Оформление профиля GitHub](https://itnan.ru/post.php?c=1&p=649363)
-
-[Списки аккаунтов GitHub с репозиториями по группам](pavka21.github.io)
-
 
 [Оформление на языке md](https://gist.github.com/Jekins/2bf2d0638163f1294637#Links)
 
