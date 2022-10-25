@@ -34,6 +34,8 @@
 
 ![Урок на youtube](youtube16.png) [Эксперимент в Нейросимуляторе](https://www.youtube.com/watch?v=n9_gP_ZoviA)
 
+[CСайт лабораторных и проектов для Нейросимулятора](https://lbai.ru/)
+
 [Нейросимулятор](https://www.lbai.ru/#;show;install)
 
 -----
@@ -46,7 +48,6 @@
 ![Урок на youtube](youtube16.png) [Основы sql-запросов](https://youtu.be/_-3rTE8ygnI)
 
 ![Урок на youtube](youtube16.png) [Основы sql-запросов 2](https://www.youtube.com/watch?v=pSg8qlMXKf4)
-
 
 
 [SQL-тренажер v0.1](https://github.com/lyctpu/help/blob/main/dbsql_client_v0.1.exe)
@@ -74,3 +75,5 @@
 ![](free-icon-codepen-2111501.png) [Codepen](https://codepen.io/)
 
 ![](wordpress256.png) [Wordpress](https://wordpress.com/ru/)
+
+[Flask](https://proproprogs.ru/flask/flask-chto-eto-takoe-wsgi-prilozhenie)
