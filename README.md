@@ -36,7 +36,7 @@
 
 ![Урок на youtube](youtube16.png) [Эксперимент в Нейросимуляторе](https://www.youtube.com/watch?v=n9_gP_ZoviA)
 
-[CСайт лабораторных и проектов для Нейросимулятора](https://lbai.ru/)
+[Сайт лабораторных и проектов для Нейросимулятора](https://lbai.ru/)
 
 [Нейросимулятор](https://www.lbai.ru/#;show;install)
 
