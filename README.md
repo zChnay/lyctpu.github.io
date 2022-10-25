@@ -15,13 +15,16 @@
 
 [Файл xls для задачи энергосбыта](https://github.com/lyctpu/help/blob/main/Исполнение_Томскэнергосбыт%20в%20ЕИС_.xls)
 
-## Список работ
+-------------
+### Список работ
+(В разработке)
 
+-----------
 ### Кодинг, ЕГЭ
 
-[Все программирование для ЕГЭ 2ч18м](https://www.youtube.com/watch?v=iTFwN9ckS9k)
+![Урок на youtube](youtube16.png)[Все программирование для ЕГЭ 2ч18м](https://www.youtube.com/watch?v=iTFwN9ckS9k)
 
-[Весь python за час](https://www.youtube.com/watch?v=-v5m3XnVpC8)
+![Урок на youtube](youtube16.png)[Весь python за час](https://www.youtube.com/watch?v=-v5m3XnVpC8)
 
 [Шпора по python Jupyter Notebook](https://github.com/lyctpu/lyctpu.github.io/blob/main/python%20%D1%88%D0%BF%D0%BE%D1%80%D0%B0.ipynb)
 
@@ -86,6 +89,6 @@
 
 [Расширение для VS Code](https://dev-gang.ru/article/vs-code-opublikuite-svoe-snippet-rasshirenie-fh6iqx47qn/)
 
-[Программирование в Minecraft на python](https://tproger.ru/articles/programmirovanie-na-python-v-minecraft-besplatnye-videouroki-dlja-detej-i-podrostkov-dlja-detej-ot-9-let/)
+![Урок на youtube](youtube16.png)[Программирование в Minecraft на python](https://tproger.ru/articles/programmirovanie-na-python-v-minecraft-besplatnye-videouroki-dlja-detej-i-podrostkov-dlja-detej-ot-9-let/)
 
 
