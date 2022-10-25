@@ -1,10 +1,8 @@
-![](logo.jpg)
-
-[Сайт лицея](https://portal.tpu.ru/lyceum)
+![](logo.jpg)       [Сайт лицея](https://portal.tpu.ru/lyceum)
 
 ## [Списки аккаунтов GitHub с репозиториями по группам](https://pavka21.github.io)
 
-----------------
+***********
 
 [Google таблица аккаунтов](http://clck.ru/326VLa)
 
