@@ -21,7 +21,7 @@
 
 [Весь python за час](https://www.youtube.com/watch?v=-v5m3XnVpC8)
 
-[Шпора по python Jupyter Notebook](https://github.com/pavka21/commit/blob/main/python%20шпора.ipynb)
+[Шпора по python Jupyter Notebook](https://github.com/lyctpu/lyctpu.github.io/blob/main/python%20%D1%88%D0%BF%D0%BE%D1%80%D0%B0.ipynb)
 
 [Досрочное ЕГЭ2022](https://100ballnik.com/%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82-%D1%81-%D0%B4%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B5%D0%B3%D1%8D-2022-%D0%BF%D0%BE-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82/?ysclid=l9i2tuwgl4196137770)
 
@@ -33,7 +33,6 @@
 ### Нейросети
 
 ![Урок на youtube](youtube16.png) [Эксперимент в Нейросимуляторе](https://www.youtube.com/watch?v=n9_gP_ZoviA)
-
 
 [Нейросимулятор](https://www.lbai.ru/#;show;install)
 
