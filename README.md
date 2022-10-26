@@ -14,7 +14,7 @@
 
 -------------
 ### Список работ
-[Конспект](https://github.com/lyctpu/lyctpu.github.io/blob/main/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82.md)
+[Конспект](https://github.com/lyctpu/lyctpu.github.io/blob/main/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82.txt)
 (В разработке)
 
 -----------
