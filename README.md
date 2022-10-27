@@ -14,8 +14,8 @@
 
 -------------
 ### Список работ
-[Конспект](https://github.com/lyctpu/lyctpu.github.io/blob/main/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82.txt)
-(В разработке)
+[Конспект Сжатие инф., Помехоуйсточивое кодирование](https://github.com/lyctpu/lyctpu.github.io/blob/main/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82.txt)
+
 
 -----------
 ### Кодинг, ЕГЭ
@@ -51,7 +51,6 @@
 ![Урок на youtube](youtube16.png) [Основы sql-запросов](https://youtu.be/_-3rTE8ygnI)
 
 ![Урок на youtube](youtube16.png) [Основы sql-запросов 2](https://www.youtube.com/watch?v=pSg8qlMXKf4)
-
 
 [SQL-тренажер v0.1](https://github.com/lyctpu/help/blob/main/dbsql_client_v0.1.exe)
 
