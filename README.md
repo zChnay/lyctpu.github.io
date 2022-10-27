@@ -74,6 +74,8 @@
 
 [Запись в Latex](http://fkn.ktu10.com/?q=node/8716&ysclid=l9qf3ml74m339828792)
 
+[Latex-редактор](https://latexeditor.lagrida.com/)
+
 -----
 ### Web
 
