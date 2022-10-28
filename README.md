@@ -10,12 +10,12 @@
 
 [Оформление на языке md](https://gist.github.com/Jekins/2bf2d0638163f1294637#Links)
 
-[Файл xls для задачи энергосбыта](https://github.com/lyctpu/help/blob/main/Исполнение_Томскэнергосбыт%20в%20ЕИС_.xls)
-
+[КНИГИ ПО IT и не только](https://drive.google.com/drive/folders/1-YlbZFhnsgs94KVFq6t-HQ6aEWJ4vuwB?usp=sharing)
 -------------
-### Список работ
+### Работы и задания
 [Конспект Сжатие инф., Помехоуйсточивое кодирование](https://github.com/lyctpu/lyctpu.github.io/blob/main/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82.txt)
 
+[Файл xls для задачи энергосбыта](https://github.com/lyctpu/help/blob/main/Исполнение_Томскэнергосбыт%20в%20ЕИС_.xls
 
 -----------
 ### Кодинг, ЕГЭ
@@ -85,6 +85,7 @@
 ![](wordpress256.png) [Wordpress](https://wordpress.com/ru/)
 
 [Flask](https://proproprogs.ru/flask/flask-chto-eto-takoe-wsgi-prilozhenie)
+
 [Overleaf (LaTeX)](https://www.overleaf.com/)
 
 ## Ссылки в разработке
