@@ -21,6 +21,8 @@
 -----------
 ### Кодинг, ЕГЭ
 
+![Урок на youtube](youtube16.png) [Канал Ивана ВИкторовича](https://www.youtube.com/c/IoanPlugar_inf)
+
 ![Урок на youtube](youtube16.png) [Все программирование для ЕГЭ 2ч18м](https://www.youtube.com/watch?v=iTFwN9ckS9k)
 
 ![Урок на youtube](youtube16.png) [Весь python за час](https://www.youtube.com/watch?v=-v5m3XnVpC8)
@@ -32,6 +34,8 @@
 [Демо2022](https://github.com/pavka21/ege/blob/main/2023demo/ege2022.ipynb)
 
 [Демо2023](https://github.com/pavka21/ege/blob/main/2022demo/ege2023.ipynb)
+
+[Шпаргалка по python](https://github.com/lyctpu/help/blob/main/python%20%D1%88%D0%BF%D0%BE%D1%80%D0%B0.ipynb)
 
 ------
 ### Нейросети
