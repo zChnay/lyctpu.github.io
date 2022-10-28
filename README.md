@@ -82,6 +82,8 @@
 
 [Latex-формулы](https://ru.wikibooks.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B_%D0%B2_LaTeX)
 
+[Создание команды двойного отрицания](https://translated.turbopages.org/proxy_u/en-ru.ru.3736324b-635b76e0-cc376e62-74722d776562/https/tex.stackexchange.com/questions/32422/is-there-a-better-method-of-double-negating-than-nesting-an-overline-within-ano)
+
 -----
 ### Web
 
