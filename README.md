@@ -10,12 +10,13 @@
 
 [Оформление на языке md](https://gist.github.com/Jekins/2bf2d0638163f1294637#Links)
 
-[КНИГИ ПО IT и не только](https://drive.google.com/drive/folders/1-YlbZFhnsgs94KVFq6t-HQ6aEWJ4vuwB?usp=sharing)
+![](free-icon-open-book-4797975.png) [КНИГИ ПО IT и не только](https://drive.google.com/drive/folders/1-YlbZFhnsgs94KVFq6t-HQ6aEWJ4vuwB?usp=sharing)
+
 -------------
 ### Работы и задания
-[Конспект Сжатие инф., Помехоуйсточивое кодирование](https://github.com/lyctpu/lyctpu.github.io/blob/main/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82.txt)
+[Конспект](https://github.com/lyctpu/lyctpu.github.io/blob/main/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82.txt)  Сжатие инф., Помехоуйсточивое кодирование
 
-[Файл xls для задачи энергосбыта](https://github.com/lyctpu/help/blob/main/Исполнение_Томскэнергосбыт%20в%20ЕИС_.xls
+[Файл xls для задачи энергосбыта](https://github.com/lyctpu/help/blob/main/Исполнение_Томскэнергосбыт%20в%20ЕИС_.xls)
 
 -----------
 ### Кодинг, ЕГЭ
