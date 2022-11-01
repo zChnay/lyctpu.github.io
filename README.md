@@ -22,6 +22,8 @@
 
 [Сириус Курсы](https://edu.sirius.online/)
 
+[ВСОШ Олимпиада](https://olimpiada.ru/)
+
 [Codecademy](https://www.codecademy.com/)
 
 [Яндекс практикум](https://practicum.yandex.ru/catalog/programming/free/)
