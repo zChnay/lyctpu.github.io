@@ -1,6 +1,8 @@
 ![](logo.jpg)       [Сайт лицея](https://portal.tpu.ru/lyceum)
 
-#### [Списки аккаунтов GitHub с репозиториями по группам + ТЕСТЫ](https://paulsver.github.io)
+#### [Списки аккаунтов GitHub](https://paulsver.github.io)
+
+#### [ТЕСТЫ](https://forms.gle/cwDne3ZF439Vc5127)
 
 ***********
 
