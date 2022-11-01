@@ -59,7 +59,9 @@
 
 [SQL-тренажер v0.1](https://github.com/lyctpu/help/blob/main/dbsql_client_v0.1.exe)
 
-Задание:
+<details>
+  <summary>Задание:</summary>
+
 1. Узнать количество таблиц в БД
 2. Узнать названия таблиц в БД
 3. Вывести всех пользователей
@@ -68,6 +70,8 @@
 6. Найти себя в базе по имени (поле name для имени, поле fam для фамилии)
 6. Переписать запросы в тетрадь и в readme.md
 Под правами пользователя позволяет выполнять любые запросы к БД MySQL, кроме удаления данных.
+
+</details>
 
 ------
 ### Булева логика
@@ -127,8 +131,6 @@
 
 ![Урок на youtube](youtube16.png) [Программирование в Minecraft на python](https://tproger.ru/articles/programmirovanie-na-python-v-minecraft-besplatnye-videouroki-dlja-detej-i-podrostkov-dlja-detej-ot-9-let/)
 
-<details>
-  <summary>Список</summary>
-</details>
+
 
 
