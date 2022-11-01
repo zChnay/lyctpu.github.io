@@ -97,7 +97,7 @@
 
 [Создание команды двойного отрицания](https://translated.turbopages.org/proxy_u/en-ru.ru.3736324b-635b76e0-cc376e62-74722d776562/https/tex.stackexchange.com/questions/32422/is-there-a-better-method-of-double-negating-than-nesting-an-overline-within-ano)
 
-![image](https://user-images.githubusercontent.com/114549805/199189141-00a5a66f-37de-49a1-a92f-754425d8be7e.png) [Overleaf (LaTeX)](https://www.overleaf.com/)
+[Overleaf (LaTeX)](https://www.overleaf.com/)
 
 ![](youtube16.png) [Overleaf: обзор сервиса](https://www.youtube.com/watch?v=1i6L2xLAY4E)
 
