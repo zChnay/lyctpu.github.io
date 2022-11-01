@@ -24,7 +24,7 @@
 
 [Codecademy](https://www.codecademy.com/)
 
-[Яндекс практикум](https://practicum.yandex.ru/](https://practicum.yandex.ru/catalog/programming/free/)
+[Яндекс практикум](https://practicum.yandex.ru/catalog/programming/free/)
 
 -------------
 
