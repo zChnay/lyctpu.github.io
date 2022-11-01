@@ -4,6 +4,8 @@
 
 #### [ТЕСТЫ](https://forms.gle/cwDne3ZF439Vc5127)
 
+## <a href="#Кодинг, ЕГЭ">Кодинг, ЕГЭ</a>  <a href="#Нейросети, ЕГЭ">Нейросети</a>  <a href="#БД">БД</a> <a href="#Логика">Логика</a>  <a href="#LaTex">LaTex</a> <a href="#Web">Web</a>
+
 ***********
 
 [Google таблица аккаунтов](http://clck.ru/326VLa)
@@ -21,6 +23,9 @@
 [Файл xls для задачи энергосбыта](https://github.com/lyctpu/help/blob/main/Исполнение_Томскэнергосбыт%20в%20ЕИС_.xls)
 
 -----------
+
+<p><a name="Кодинг, ЕГЭ"></a></p>
+
 ### Кодинг, ЕГЭ
 
 ![Урок на youtube](youtube16.png) [Канал Ивана ВИкторовича](https://www.youtube.com/c/IoanPlugar_inf)
@@ -40,6 +45,9 @@
 [Шпаргалка по python](https://github.com/lyctpu/help/blob/main/python%20%D1%88%D0%BF%D0%BE%D1%80%D0%B0.ipynb)
 
 ------
+
+<p><a name="Нейросети"></a></p>
+
 ### Нейросети
 
 ![Урок на youtube](youtube16.png) [Эксперимент в Нейросимуляторе](https://www.youtube.com/watch?v=n9_gP_ZoviA)
@@ -49,7 +57,10 @@
 [Нейросимулятор](https://www.lbai.ru/#;show;install)
 
 -----
-### Работа с БД
+
+<p><a name="БД"></a></p>
+
+### БД
 
 [Технология создания sqlite в python](https://pythonru.com/osnovy/sqlite-v-python)
 
@@ -76,7 +87,10 @@
 </details>
 
 ------
-### Булева логика
+
+<p><a name="Логика"></a></p>
+
+### Логика
 
 ![Урок на youtube](youtube16.png) [Логика электроники](https://www.youtube.com/watch?v=rva16jfbdWE)
 
@@ -85,6 +99,8 @@
 ![Урок на youtube](youtube16.png) [О LaTex](https://www.youtube.com/watch?v=t6Kyyattm_o)
 
 --------------
+
+<p><a name="LaTex"></a></p>
 
 ### LaTex ![LaTex](https://user-images.githubusercontent.com/114549805/199188610-8124a51c-7464-461f-acf3-1ae7ddae731e.png)
 
@@ -102,6 +118,9 @@
 ![](youtube16.png) [Overleaf: обзор сервиса](https://www.youtube.com/watch?v=1i6L2xLAY4E)
 
 -----
+
+<p><a name="Web"></a></p>
+
 ### Web
 
 ![](free-icon-codepen-2111501.png) [Codepen](https://codepen.io/)
