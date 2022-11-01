@@ -1,6 +1,6 @@
 ![](logo.jpg)       [Сайт лицея](https://portal.tpu.ru/lyceum)
 
-## [Списки аккаунтов GitHub с репозиториями по группам + ТЕСТЫ](https://paulsver.github.io)
+#### [Списки аккаунтов GitHub с репозиториями по группам + ТЕСТЫ](https://paulsver.github.io)
 
 ***********
 
@@ -98,11 +98,24 @@
 [Топ-10 веб-приложений на CodePen за 2021 год](https://tproger.ru/articles/10-web-proektov-codepen-2021/)
   
 [Бесконечный CodePen. 9 демок для тех, кто любит делать красиво](https://htmlacademy.ru/blog/articles/codepen-1)
-    
+
 
 ![](wordpress256.png) [Wordpress](https://wordpress.com/ru/)
 
+![](youtube16.png) [Сайт на Тильда или сайт на Wordpress](https://www.youtube.com/watch?v=ae5BdJ4DefU)
+
+![](youtube16.png) [Обзор WordPress CMS](https://www.youtube.com/watch?v=AYAaxTxu23E)
+
+![](youtube16.png) [Elementor - бесплатный конструктор страниц](https://www.youtube.com/watch?v=CYRipSn8zac)
+
+![](youtube16.png) [Обзор wordpress 6](https://www.youtube.com/watch?v=CbrVWoPArE4)
+
+
 [Flask](https://proproprogs.ru/flask/flask-chto-eto-takoe-wsgi-prilozhenie)
+
+![](youtube16.png) [Django, Flask или FastAPI? Обзор фреймворков Python](https://www.youtube.com/watch?v=JK5Ng8SFRJc)
+
+![](youtube16.png) [Разбор тестового задания на Flask](https://www.youtube.com/watch?v=3ZVClZHPRig&ab_channel=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%2B%3D%D0%9F%D1%80%D0%BE%D0%BD%D0%B8%D0%BD)
 
 [Overleaf (LaTeX)](https://www.overleaf.com/)
 
