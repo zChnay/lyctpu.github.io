@@ -57,9 +57,9 @@
 
 [Досрочное ЕГЭ2022](https://100ballnik.com/%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82-%D1%81-%D0%B4%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B5%D0%B3%D1%8D-2022-%D0%BF%D0%BE-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82/?ysclid=l9i2tuwgl4196137770)
 
-[Демо2022](https://github.com/pavka21/ege/blob/main/2023demo/ege2022.ipynb)
+[Демо2022](https://github.com/pavka21/ege/blob/main/2022demo/ege2022.ipynb)
 
-[Демо2023](https://github.com/pavka21/ege/blob/main/2022demo/ege2023.ipynb)
+[Демо2023](https://github.com/pavka21/ege/blob/main/2023demo/ege2023.ipynb)
 
 [Шпаргалка по python](https://github.com/lyctpu/help/blob/main/python%20%D1%88%D0%BF%D0%BE%D1%80%D0%B0.ipynb)
 
