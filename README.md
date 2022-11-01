@@ -6,7 +6,7 @@
 
 Быстрые ссылки
 
-#### <a href="#Кодинг, ЕГЭ">Кодинг, ЕГЭ</a>  <a href="#Нейросети, ЕГЭ">Нейросети</a>  <a href="#БД">БД</a> <a href="#Логика">Логика</a>  <a href="#LaTex">LaTex</a> <a href="#Web">Web</a>
+#### <a href="#Кодинг, ЕГЭ">Кодинг, ЕГЭ</a>     <a href="#Нейросети, ЕГЭ">Нейросети</a>     <a href="#БД">БД</a>     <a href="#Логика">Логика</a>     <a href="#LaTex">LaTex</a>     <a href="#Web">Web</a>
 
 ***********
 
@@ -24,7 +24,7 @@
 
 [Codecademy](https://www.codecademy.com/)
 
-[Яндекс практикум](https://practicum.yandex.ru/)
+[Яндекс практикум](https://practicum.yandex.ru/](https://practicum.yandex.ru/catalog/programming/free/)
 
 -------------
 
