@@ -82,6 +82,13 @@
 
 [Логика в Excel](https://urok.1sept.ru/articles/519412?ysclid=l9987yvlcg727714146)
 
+![Урок на youtube](youtube16.png) [О LaTex](https://www.youtube.com/watch?v=t6Kyyattm_o)
+
+--------------
+
+### LaTex ![LaTex](https://user-images.githubusercontent.com/114549805/199188610-8124a51c-7464-461f-acf3-1ae7ddae731e.png)
+
+
 [Запись в Latex](http://fkn.ktu10.com/?q=node/8716&ysclid=l9qf3ml74m339828792)
 
 [Latex-редактор](https://latexeditor.lagrida.com/)
@@ -89,6 +96,10 @@
 [Latex-формулы](https://ru.wikibooks.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B_%D0%B2_LaTeX)
 
 [Создание команды двойного отрицания](https://translated.turbopages.org/proxy_u/en-ru.ru.3736324b-635b76e0-cc376e62-74722d776562/https/tex.stackexchange.com/questions/32422/is-there-a-better-method-of-double-negating-than-nesting-an-overline-within-ano)
+
+![image](https://user-images.githubusercontent.com/114549805/199189141-00a5a66f-37de-49a1-a92f-754425d8be7e.png) [Overleaf (LaTeX)](https://www.overleaf.com/)
+
+![](youtube16.png) [Overleaf: обзор сервиса](https://www.youtube.com/watch?v=1i6L2xLAY4E)
 
 -----
 ### Web
@@ -123,7 +134,7 @@
 
 ![](youtube16.png) [Разбор тестового задания на Flask](https://www.youtube.com/watch?v=3ZVClZHPRig&ab_channel=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%2B%3D%D0%9F%D1%80%D0%BE%D0%BD%D0%B8%D0%BD)
 
-[Overleaf (LaTeX)](https://www.overleaf.com/)
+---------
 
 ## Ссылки в разработке
 
