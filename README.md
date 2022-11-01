@@ -12,13 +12,12 @@
 
 [Google таблица аккаунтов](http://clck.ru/326VLa)
 
-[Оформление профиля GitHub](https://itnan.ru/post.php?c=1&p=649363)
 
-[Оформление на языке md](https://gist.github.com/Jekins/2bf2d0638163f1294637#Links)
 
 ![](free-icon-open-book-4797975.png) [КНИГИ ПО IT и не только](https://drive.google.com/drive/folders/1-YlbZFhnsgs94KVFq6t-HQ6aEWJ4vuwB?usp=sharing)
 
 -------------
+
 ### Работы и задания
 [Конспект](https://github.com/lyctpu/lyctpu.github.io/blob/main/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82.txt)  Сжатие инф., Помехоуйсточивое кодирование
 
@@ -29,6 +28,10 @@
 <p><a name="Кодинг, ЕГЭ"></a></p>
 
 ### Кодинг, ЕГЭ
+
+[Оформление профиля GitHub](https://itnan.ru/post.php?c=1&p=649363)
+
+[Оформление на языке md](https://gist.github.com/Jekins/2bf2d0638163f1294637#Links)
 
 ![Урок на youtube](youtube16.png) [Канал Ивана ВИкторовича](https://www.youtube.com/c/IoanPlugar_inf)
 
