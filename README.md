@@ -196,6 +196,8 @@ Raspberry
 
 [строки в Python](https://pythonist.ru/5-sposobov-udalit-simvol-iz-stroki/)
 
+[управляющие символы python](https://pythonz.net/references/named/control-characters/)
+
 
 
 
