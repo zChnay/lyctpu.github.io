@@ -194,6 +194,8 @@ Raspberry
 
 [python and minecraft](https://novator.team/post/435)
 
+[строки в Python](https://pythonist.ru/5-sposobov-udalit-simvol-iz-stroki/)
+
 
 
 
