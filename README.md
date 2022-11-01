@@ -89,6 +89,18 @@
 
 ![](free-icon-codepen-2111501.png) [Codepen](https://codepen.io/)
 
+
+    ![](wordpress256.png) [О Codepen](https://www.youtube.com/watch?v=vLakrBkyNsM)
+
+    ![](wordpress256.png) [О Codepen](https://www.youtube.com/watch?v=hq6E7uqEx8M&pp=ugMICgJydRABGAE%3D)
+
+    ![](wordpress256.png) [О Codepen](https://www.youtube.com/watch?v=ax1GK2M53as)
+
+    [Топ-10 веб-приложений на CodePen за 2021 год](https://tproger.ru/articles/10-web-proektov-codepen-2021/)
+  
+    [Бесконечный CodePen. 9 демок для тех, кто любит делать красиво](https://htmlacademy.ru/blog/articles/codepen-1)
+    
+
 ![](wordpress256.png) [Wordpress](https://wordpress.com/ru/)
 
 [Flask](https://proproprogs.ru/flask/flask-chto-eto-takoe-wsgi-prilozhenie)
@@ -102,5 +114,9 @@
 [Расширение для VS Code](https://dev-gang.ru/article/vs-code-opublikuite-svoe-snippet-rasshirenie-fh6iqx47qn/)
 
 ![Урок на youtube](youtube16.png) [Программирование в Minecraft на python](https://tproger.ru/articles/programmirovanie-na-python-v-minecraft-besplatnye-videouroki-dlja-detej-i-podrostkov-dlja-detej-ot-9-let/)
+
+<details>
+  <summary>Список</summary>
+</details>
 
 
