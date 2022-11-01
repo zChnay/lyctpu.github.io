@@ -89,16 +89,15 @@
 
 ![](free-icon-codepen-2111501.png) [Codepen](https://codepen.io/)
 
+![](youtube16.png) [О Codepen](https://www.youtube.com/watch?v=vLakrBkyNsM)
 
-    ![](wordpress256.png) [О Codepen](https://www.youtube.com/watch?v=vLakrBkyNsM)
+![](youtube16.png) [О Codepen](https://www.youtube.com/watch?v=hq6E7uqEx8M&pp=ugMICgJydRABGAE%3D)
 
-    ![](wordpress256.png) [О Codepen](https://www.youtube.com/watch?v=hq6E7uqEx8M&pp=ugMICgJydRABGAE%3D)
+![](youtube16.png) [О Codepen](https://www.youtube.com/watch?v=ax1GK2M53as)
 
-    ![](wordpress256.png) [О Codepen](https://www.youtube.com/watch?v=ax1GK2M53as)
-
-    [Топ-10 веб-приложений на CodePen за 2021 год](https://tproger.ru/articles/10-web-proektov-codepen-2021/)
+[Топ-10 веб-приложений на CodePen за 2021 год](https://tproger.ru/articles/10-web-proektov-codepen-2021/)
   
-    [Бесконечный CodePen. 9 демок для тех, кто любит делать красиво](https://htmlacademy.ru/blog/articles/codepen-1)
+[Бесконечный CodePen. 9 демок для тех, кто любит делать красиво](https://htmlacademy.ru/blog/articles/codepen-1)
     
 
 ![](wordpress256.png) [Wordpress](https://wordpress.com/ru/)
