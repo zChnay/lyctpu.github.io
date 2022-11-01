@@ -12,9 +12,19 @@
 
 [Google таблица аккаунтов](http://clck.ru/326VLa)
 
-
+### РЕСУРСЫ
 
 ![](free-icon-open-book-4797975.png) [КНИГИ ПО IT и не только](https://drive.google.com/drive/folders/1-YlbZFhnsgs94KVFq6t-HQ6aEWJ4vuwB?usp=sharing)
+
+[Нетология](https://netology.ru/free#/)
+
+[Stepik](https://stepik.org/catalog?utm_source=stepik_landing_welcome_new&utm_medium=stepik_courses&utm_campaign=catalog_2022_04_08&_ga=2.53643755.2105631092.1667293425-401347405.1664882566)
+
+[Сириус Курсы](https://edu.sirius.online/)
+
+[Codecademy](https://www.codecademy.com/)
+
+[Яндекс практикум](https://practicum.yandex.ru/)
 
 -------------
 
@@ -33,7 +43,9 @@
 
 [Оформление на языке md](https://gist.github.com/Jekins/2bf2d0638163f1294637#Links)
 
-![Урок на youtube](youtube16.png) [Канал Ивана ВИкторовича](https://www.youtube.com/c/IoanPlugar_inf)
+[Задачи кодинг](https://codeforces.com/)
+
+![Урок на youtube](youtube16.png) [Канал Ивана Викторовича](https://www.youtube.com/c/IoanPlugar_inf)
 
 ![Урок на youtube](youtube16.png) [Все программирование для ЕГЭ 2ч18м](https://www.youtube.com/watch?v=iTFwN9ckS9k)
 
