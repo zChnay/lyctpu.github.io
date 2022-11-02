@@ -28,6 +28,8 @@
 
 [Яндекс практикум](https://practicum.yandex.ru/catalog/programming/free/)
 
+[Skillfactory](https://skillfactory.ru/free-events)
+
 -------------
 
 ### Работы и задания
