@@ -24,6 +24,8 @@
 
 [Нетология](https://netology.ru/free#/)
 
+[Задачи кодинг](https://codeforces.com/)
+
 [Stepik](https://stepik.org/catalog?utm_source=stepik_landing_welcome_new&utm_medium=stepik_courses&utm_campaign=catalog_2022_04_08&_ga=2.53643755.2105631092.1667293425-401347405.1664882566)
 
 [ВСОШ Олимпиада](https://olimpiada.ru/)
@@ -49,7 +51,7 @@
 
 [Оформление на языке md](https://gist.github.com/Jekins/2bf2d0638163f1294637#Links)
 
-[Задачи кодинг](https://codeforces.com/)
+[Ресурсы PYTHON](https://github.com/lyctpu/lyctpu.github.io/blob/main/python.md)
 
 ![Урок на youtube](youtube16.png) [Канал Ивана Викторовича](https://www.youtube.com/c/IoanPlugar_inf)
 
@@ -61,9 +63,9 @@
 
 [Досрочное ЕГЭ2022](https://100ballnik.com/%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82-%D1%81-%D0%B4%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B5%D0%B3%D1%8D-2022-%D0%BF%D0%BE-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82/?ysclid=l9i2tuwgl4196137770)
 
-[Демо2022](https://github.com/pavka21/ege/blob/main/2022demo/ege2022.ipynb)
+[ЕГЭ Демо2022](https://github.com/pavka21/ege/blob/main/2022demo/ege2022.ipynb)
 
-[Демо2023](https://github.com/pavka21/ege/blob/main/2023demo/ege2023.ipynb)
+[ЕГЭ Демо2023](https://github.com/pavka21/ege/blob/main/2023demo/ege2023.ipynb)
 
 [Шпаргалка по python](https://github.com/lyctpu/help/blob/main/python%20%D1%88%D0%BF%D0%BE%D1%80%D0%B0.ipynb)
 
@@ -196,16 +198,4 @@ Raspberry
 
 Cниппеты в vs code
 
-![Урок на youtube](youtube16.png) [Программирование в Minecraft на python](https://tproger.ru/articles/programmirovanie-na-python-v-minecraft-besplatnye-videouroki-dlja-detej-i-podrostkov-dlja-detej-ot-9-let/)
-
-[python and minecraft](https://novator.team/post/435)
-
-[строки в Python](https://pythonist.ru/5-sposobov-udalit-simvol-iz-stroki/)
-
-[управляющие символы python](https://pythonz.net/references/named/control-characters/)
-
 [Алиса, навыки](https://academy.yandex.ru/journal/kak-sozdat-navyk-dlya-alisy-s-nulya)
-
-
-
-
