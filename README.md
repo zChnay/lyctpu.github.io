@@ -192,6 +192,8 @@ Raspberry
 
 [Расширение для VS Code](https://dev-gang.ru/article/vs-code-opublikuite-svoe-snippet-rasshirenie-fh6iqx47qn/)
 
+Cниппеты в vs code
+
 ![Урок на youtube](youtube16.png) [Программирование в Minecraft на python](https://tproger.ru/articles/programmirovanie-na-python-v-minecraft-besplatnye-videouroki-dlja-detej-i-podrostkov-dlja-detej-ot-9-let/)
 
 [python and minecraft](https://novator.team/post/435)
@@ -199,6 +201,8 @@ Raspberry
 [строки в Python](https://pythonist.ru/5-sposobov-udalit-simvol-iz-stroki/)
 
 [управляющие символы python](https://pythonz.net/references/named/control-characters/)
+
+[Алиса, навыки](https://academy.yandex.ru/journal/kak-sozdat-navyk-dlya-alisy-s-nulya)
 
 
 
