@@ -6,7 +6,7 @@
 
 Быстрые ссылки
 
-#### <a href="#Кодинг, ЕГЭ">Кодинг, ЕГЭ</a>     <a href="#Нейросети, ЕГЭ">Нейросети</a>     <a href="#БД">БД</a>     <a href="#Логика">Логика</a>     <a href="#LaTex">LaTex</a>     <a href="#Web">Web</a>
+#### <a href="#Кодинг, ЕГЭ">Кодинг, ЕГЭ</a>  |   <a href="#Нейросети, ЕГЭ">Нейросети</a>  |   <a href="#БД">БД</a>  |   <a href="#Логика">Логика</a>  |   <a href="#LaTex">LaTex</a>   |   <a href="#Web">Web</a>
 
 ***********
 
@@ -201,5 +201,7 @@ Cниппеты в vs code
 https://habr.com/ru/post/494810/
 
 https://habr.com/ru/company/ruvds/blog/445268/
+
+https://github.com/ektogamat/threejs-andy-bolierplate
 
 [Алиса, навыки](https://academy.yandex.ru/journal/kak-sozdat-navyk-dlya-alisy-s-nulya)
