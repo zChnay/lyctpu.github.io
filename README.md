@@ -198,4 +198,8 @@ Raspberry
 
 Cниппеты в vs code
 
+https://habr.com/ru/post/494810/
+
+https://habr.com/ru/company/ruvds/blog/445268/
+
 [Алиса, навыки](https://academy.yandex.ru/journal/kak-sozdat-navyk-dlya-alisy-s-nulya)
