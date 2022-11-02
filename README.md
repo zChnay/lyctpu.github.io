@@ -16,17 +16,19 @@
 
 ![](free-icon-open-book-4797975.png) [КНИГИ ПО IT и не только](https://drive.google.com/drive/folders/1-YlbZFhnsgs94KVFq6t-HQ6aEWJ4vuwB?usp=sharing)
 
+[Яндекс.Алгоритмы](https://yandex.ru/yaintern/algorithm-training#schedule)
+
+[Яндекс практикум](https://practicum.yandex.ru/catalog/programming/free/)
+
+[Сириус Курсы](https://edu.sirius.online/)
+
 [Нетология](https://netology.ru/free#/)
 
 [Stepik](https://stepik.org/catalog?utm_source=stepik_landing_welcome_new&utm_medium=stepik_courses&utm_campaign=catalog_2022_04_08&_ga=2.53643755.2105631092.1667293425-401347405.1664882566)
 
-[Сириус Курсы](https://edu.sirius.online/)
-
 [ВСОШ Олимпиада](https://olimpiada.ru/)
 
 [Codecademy](https://www.codecademy.com/)
-
-[Яндекс практикум](https://practicum.yandex.ru/catalog/programming/free/)
 
 [Skillfactory](https://skillfactory.ru/free-events)
 
