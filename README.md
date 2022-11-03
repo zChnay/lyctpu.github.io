@@ -2,6 +2,8 @@
 
 #### [Списки аккаунтов GitHub](https://paulsver.github.io)
 
+### [Роботы](https://forms.gle/pzCujqhLr6A9QVfz9)
+
 #### [ТЕСТЫ](https://forms.gle/cwDne3ZF439Vc5127)
 
 Быстрые ссылки
