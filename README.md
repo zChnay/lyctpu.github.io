@@ -189,6 +189,8 @@
 
 ![](youtube16.png) [BPython](https://www.youtube.com/watch?v=Y-rK70sCX5w&ab_channel=SweetCoder)
 
+![](youtube16.png) [большой интенсив на pywebio](https://www.youtube.com/watch?v=qeHQrNrDdeg&ab_channel=SuperpositionToronto)
+
 
 ---------
 
