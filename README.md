@@ -82,6 +82,8 @@
 
 [deepnote lyctpy](https://deepnote.com/@lyctpu)
 
+[Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=5fCEDCU_qrC0)
+
 
 -------
 
