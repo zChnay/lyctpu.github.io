@@ -55,7 +55,7 @@
 
 [Ресурсы PYTHON](https://github.com/lyctpu/lyctpu.github.io/blob/main/python.md)
 
-<a href="./page1">Ресурсы</a>
+<a href="./python">Ресурсы Python</a>
 
 ![Урок на youtube](youtube16.png) [Канал Ивана Викторовича](https://www.youtube.com/c/IoanPlugar_inf)
 
