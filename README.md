@@ -69,7 +69,7 @@
 
 [ЕГЭ Демо2023](https://github.com/pavka21/ege/blob/main/2023demo/ege2023.ipynb)
 
-[Шпаргалка по python](https://github.com/lyctpu/help/blob/main/python%20%D1%88%D0%BF%D0%BE%D1%80%D0%B0.ipynb)
+[Шпаргалка по python](https://deepnote.com/@lyctpu/python-shpora-f0662790-1bd3-4dec-b07d-9f3f15002afb)
 
 ------
 <p><a name="Notebooks"></a></p>
