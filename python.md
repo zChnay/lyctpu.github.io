@@ -6,6 +6,8 @@
 
 [control-characters](https://pythonz.net/references/named/control-characters/)
 
+- [пример](https://gist.github.com/paulsver/edf3dd907d7d18f355e5ba640be25a3e)
+
 [5-sposobov-udalit-simvol](https://pythonist.ru/5-sposobov-udalit-simvol-iz-stroki/)
 
 [nuancesprog.ru/](https://nuancesprog.ru/p/9762/)
@@ -19,3 +21,4 @@
 [funkcija-map-v-python](https://pythonru.com/osnovy/funkcija-map-v-python)
 
 [python-map-obrabotka](https://webdevblog.ru/python-map-obrabotka-massivov-bez-ciklov/)
+
