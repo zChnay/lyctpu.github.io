@@ -1,21 +1,21 @@
 ## Ресурсы PYTHON
 
-https://habr.com/ru/post/595081/
+[habr.com](https://habr.com/ru/post/595081/)
 
-https://novator.team/post/435
+[novator.team](https://novator.team/post/435)
 
-https://pythonz.net/references/named/control-characters/
+[control-characters](https://pythonz.net/references/named/control-characters/)
 
-https://pythonist.ru/5-sposobov-udalit-simvol-iz-stroki/
+[5-sposobov-udalit-simvol](https://pythonist.ru/5-sposobov-udalit-simvol-iz-stroki/)
 
-https://nuancesprog.ru/p/9762/
+[nuancesprog.ru/](https://nuancesprog.ru/p/9762/)
 
 ![Урок на youtube](youtube16.png) [Программирование в Minecraft на python](https://tproger.ru/articles/programmirovanie-na-python-v-minecraft-besplatnye-videouroki-dlja-detej-i-podrostkov-dlja-detej-ot-9-let/)
 
 ### lambda map
 
-https://www.digitalocean.com/community/tutorials/how-to-use-the-python-map-function-ru
+[how-to-use-the-python-map](https://www.digitalocean.com/community/tutorials/how-to-use-the-python-map-function-ru)
 
-https://pythonru.com/osnovy/funkcija-map-v-python
+[funkcija-map-v-python](https://pythonru.com/osnovy/funkcija-map-v-python)
 
-https://webdevblog.ru/python-map-obrabotka-massivov-bez-ciklov/
+[python-map-obrabotka](https://webdevblog.ru/python-map-obrabotka-massivov-bez-ciklov/)
