@@ -55,6 +55,8 @@
 
 [Ресурсы PYTHON](https://github.com/lyctpu/lyctpu.github.io/blob/main/python.md)
 
+<a href="./page1">Ресурсы</a>
+
 ![Урок на youtube](youtube16.png) [Канал Ивана Викторовича](https://www.youtube.com/c/IoanPlugar_inf)
 
 ![Урок на youtube](youtube16.png) [Все программирование для ЕГЭ 2ч18м](https://www.youtube.com/watch?v=iTFwN9ckS9k)
