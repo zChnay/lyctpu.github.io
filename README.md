@@ -8,7 +8,7 @@
 
 Быстрые ссылки
 
-#### <a href="#Кодинг, ЕГЭ">Кодинг, ЕГЭ</a>  |   <a href="#Нейросети, ЕГЭ">Нейросети</a>  |   <a href="#БД">БД</a>  |   <a href="#Логика">Логика</a>  |   <a href="#LaTex">LaTex</a>   |   <a href="#Web">Web</a>
+#### <a href="#Кодинг, ЕГЭ">Кодинг, ЕГЭ</a>  |  <a href="#Notebooks">Notebooks</a>  |   <a href="#Нейросети, ЕГЭ">Нейросети</a>  |   <a href="#БД">БД</a>  |   <a href="#Логика">Логика</a>  |   <a href="#LaTex">LaTex</a>   |   <a href="#Web">Web</a>
 
 ***********
 
@@ -72,6 +72,18 @@
 [Шпаргалка по python](https://github.com/lyctpu/help/blob/main/python%20%D1%88%D0%BF%D0%BE%D1%80%D0%B0.ipynb)
 
 ------
+<p><a name="Notebooks"></a></p>
+
+### Notebooks
+
+[Jupyter Notebook](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb)
+
+[DeepNote](https://deepnote.com)
+
+[deepnote lyctpy](https://deepnote.com/@lyctpu)
+
+
+-------
 
 <p><a name="Нейросети"></a></p>
 
