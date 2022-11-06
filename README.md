@@ -86,7 +86,16 @@
 
 [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=5fCEDCU_qrC0)
 
+------
+<p><a name="Квесты"></a></p>
+### Квест-логика
+[Adventure creator](https://www.adventure-creator.com/download/pacdk_296.zip)
 
+[Twinery](https://twinery.org/2/#/)
+
+[renpy](https://www.renpy.org/)
+
+[Статья о квестах](https://habr.com/ru/company/ruvds/blog/544146/)
 -------
 
 <p><a name="Нейросети"></a></p>
@@ -235,3 +244,9 @@ https://habr.com/ru/company/ruvds/blog/445268/
 https://github.com/ektogamat/threejs-andy-bolierplate
 
 [Алиса, навыки](https://academy.yandex.ru/journal/kak-sozdat-navyk-dlya-alisy-s-nulya)
+
+https://github.com/inkle/inky
+
+https://www.articy.com/en/
+
+https://ifhub.club/blog/ifengines/
