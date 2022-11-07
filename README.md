@@ -82,7 +82,7 @@
 
 [DeepNote](https://deepnote.com)
 
-[deepnote lyctpy](https://deepnote.com/@lyctpu)
+[deepnote lyctpu](https://deepnote.com/@lyctpu)
 
 [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=5fCEDCU_qrC0)
 
@@ -169,6 +169,7 @@
 
 ![](youtube16.png) [Overleaf: обзор сервиса](https://www.youtube.com/watch?v=1i6L2xLAY4E)
 
+[Запись в Latex](http://mydebianblog.blogspot.com/2009/01/latex-math-in-latex.html?m=1)
 -----
 
 <p><a name="Web"></a></p>
