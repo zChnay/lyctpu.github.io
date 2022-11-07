@@ -169,6 +169,8 @@
 
 ![](youtube16.png) [Overleaf: обзор сервиса](https://www.youtube.com/watch?v=1i6L2xLAY4E)
 
+[Подборка формул](https://ido.tsuab.ru/mod/book/view.php?id=62&chapterid=23)
+
 [Запись в Latex](http://mydebianblog.blogspot.com/2009/01/latex-math-in-latex.html?m=1)
 -----
 
