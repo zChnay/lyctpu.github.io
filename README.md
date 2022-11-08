@@ -88,7 +88,9 @@
 
 ------
 <p><a name="Квесты"></a></p>
+
 ### Квест-логика
+
 [Adventure creator](https://www.adventure-creator.com/download/pacdk_296.zip)
 
 [Twinery](https://twinery.org/2/#/)
@@ -96,6 +98,8 @@
 [renpy](https://www.renpy.org/)
 
 [Статья о квестах](https://habr.com/ru/company/ruvds/blog/544146/)
+
+
 -------
 
 <p><a name="Нейросети"></a></p>
