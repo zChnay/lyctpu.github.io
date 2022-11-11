@@ -71,6 +71,8 @@
 
 [ЕГЭ Демо2023](https://github.com/lyctpu/ege/blob/main/2023demo/ege2023.ipynb)
 
+[ЕГЭ компоненты кода](https://deepnote.com/@lyctpu/ege-b9a3f885-0118-491c-8ce3-80eabda91810)
+
 [Шпаргалка по python](https://deepnote.com/@lyctpu/python-shpora-f0662790-1bd3-4dec-b07d-9f3f15002afb)
 
 ------
