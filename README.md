@@ -8,8 +8,6 @@
 
 ***********
 
-### [ЖУРНАЛ И ЗАДАЧИ](http://clck.ru/326VLa)
-
 ### <a href="http://clck.ru/326VLa/" target="_blank">ЖУРНАЛ И ЗАДАЧИ</a>
 
 ---------
@@ -22,7 +20,7 @@
 
 [Яндекс практикум](https://practicum.yandex.ru/catalog/programming/free/)
 
-:exclamation: [ **НОВОЕ** Яндекс учебники](https://academy.yandex.ru/handbook)
+[ **НОВОЕ** Яндекс учебники](https://academy.yandex.ru/handbook)
 
 [Сириус Курсы](https://edu.sirius.online/)
 
@@ -75,7 +73,7 @@
 
 [ЕГЭ компоненты кода](https://deepnote.com/@lyctpu/ege-b9a3f885-0118-491c-8ce3-80eabda91810)
 
-[Шпаргалка по python](https://deepnote.com/@lyctpu/python-shpora-f0662790-1bd3-4dec-b07d-9f3f15002afb)
+<a href="https://deepnote.com/@lyctpu/python-shpora-f0662790-1bd3-4dec-b07d-9f3f15002afb" target="_blank">Шпаргалка по python</a>
 
 ------
 <p><a name="Notebooks"></a></p>
