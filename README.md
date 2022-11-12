@@ -10,7 +10,7 @@
 
 ### [ЖУРНАЛ И ЗАДАЧИ](http://clck.ru/326VLa)
 
-### <a href="http://clck.ru/326VLa" target="_blank">ЖУРНАЛ И ЗАДАЧИ</a>
+### <a href="http://clck.ru/326VLa/" target="_blank">ЖУРНАЛ И ЗАДАЧИ</a>
 
 ---------
 
