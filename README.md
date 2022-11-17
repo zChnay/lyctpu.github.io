@@ -10,7 +10,7 @@
 
 ### <a href="http://clck.ru/326VLa/" target="_blank">ЖУРНАЛ И ЗАДАЧИ</a>
 
-### <a href="https://github.com/lyctpu/help" target="_blank">Репозиторий c файлами HELP</a>
+### <a href="https://github.com/lyctpu/help" target="_blank">Репозиторий HELP</a>
 
 ---------
 
