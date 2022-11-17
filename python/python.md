@@ -1,3 +1,9 @@
+layout: page
+title: "python"
+permalink: /python
+
+
+
 ## Ресурсы PYTHON
 
 [habr.com](https://habr.com/ru/post/595081/)
