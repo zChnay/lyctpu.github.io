@@ -79,6 +79,8 @@
 
 <a href="https://deepnote.com/@lyctpu/python-shpora-f0662790-1bd3-4dec-b07d-9f3f15002afb" target="_blank">Шпаргалка по python</a>
 
+[ЕГЭ в Excel](https://docs.google.com/spreadsheets/d/1uFQsXgk8wyZK4Q3axKS3t7WFXNkuiTOIcmE72mMsprw/edit?usp=sharing)
+
 ------
 <p><a name="Notebooks"></a></p>
 
