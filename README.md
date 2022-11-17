@@ -4,7 +4,7 @@
 
 Переходы
 
-#### <a href="#Кодинг, ЕГЭ">Кодинг, ЕГЭ</a>  |  <a href="#Notebooks">Notebooks</a>  |   <a href="#Нейросети, ЕГЭ">Нейросети</a>  |   <a href="#БД">БД</a>  |   <a href="#Логика">Логика</a>  |   <a href="#LaTex">LaTex</a>   |   <a href="#Web">Web</a>
+#### <a href="#Кодинг">Кодинг</a>  |  <a href="#ЕГЭ">ЕГЭ</a>    |  <a href="#Notebooks">Notebooks</a>  |   <a href="#Нейросети, ЕГЭ">Нейросети</a>  |   <a href="#БД">БД</a>  |   <a href="#Логика">Логика</a>  |   <a href="#LaTex">LaTex</a>   |   <a href="#Web">Web</a>
 
 ***********
 
@@ -18,7 +18,7 @@
 
 [Яндекс.Алгоритмы](https://yandex.ru/yaintern/algorithm-training#schedule)
 
-[Яндекс практикум](https://practicum.yandex.ru/catalog/programming/free/)
+[Яндекс.Практикум](https://practicum.yandex.ru/catalog/programming/free/)
 
 [ **НОВОЕ** Яндекс учебники](https://academy.yandex.ru/handbook)
 
@@ -45,9 +45,9 @@
 
 -----------
 
-<p><a name="Кодинг, ЕГЭ"></a></p>
+<p><a name="Кодинг"></a></p>
 
-### Кодинг, ЕГЭ
+### Кодинг
 
 [Оформление профиля GitHub](https://itnan.ru/post.php?c=1&p=649363)
 
@@ -64,6 +64,13 @@
 ![Урок на youtube](youtube16.png) [Весь python за час](https://www.youtube.com/watch?v=-v5m3XnVpC8)
 
 [Шпора по python Jupyter Notebook](https://github.com/lyctpu/lyctpu.github.io/blob/main/python%20%D1%88%D0%BF%D0%BE%D1%80%D0%B0.ipynb)
+
+-------
+
+### ЕГЭ
+
+<p><a name="ЕГЭ"></a></p>
+
 
 [Досрочное ЕГЭ2022](https://100ballnik.com/%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82-%D1%81-%D0%B4%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B5%D0%B3%D1%8D-2022-%D0%BF%D0%BE-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82/?ysclid=l9i2tuwgl4196137770)
 
