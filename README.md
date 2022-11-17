@@ -49,6 +49,8 @@
 
 ### Кодинг
 
+<a href="https://deepnote.com/@lyctpu/python-shpora-f0662790-1bd3-4dec-b07d-9f3f15002afb" target="_blank">Шпаргалка по python</a>
+
 [Оформление профиля GitHub](https://itnan.ru/post.php?c=1&p=649363)
 
 [Оформление на языке md](https://gist.github.com/Jekins/2bf2d0638163f1294637#Links)
@@ -57,38 +59,38 @@
 
 <a href="./python">Ресурсы Python</a>
 
+[Шпора по python Jupyter Notebook](https://github.com/lyctpu/lyctpu.github.io/blob/main/python%20%D1%88%D0%BF%D0%BE%D1%80%D0%B0.ipynb)
+
+
+
+-------
+
+<p><a name="ЕГЭ"></a></p>
+
+### ЕГЭ
+
+[Досрочное ЕГЭ 2022](https://100ballnik.com/%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82-%D1%81-%D0%B4%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B5%D0%B3%D1%8D-2022-%D0%BF%D0%BE-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82/?ysclid=l9i2tuwgl4196137770)
+
+[ЕГЭ Демо2022 реш](https://github.com/lyctpu/ege/blob/main/2022demo/ege2022.ipynb)
+
+[ЕГЭ Демо2023 реш](https://github.com/lyctpu/ege/blob/main/2023demo/ege2023.ipynb)
+
+[ЕГЭ Демо2022 ким](https://github.com/lyctpu/ege/blob/main/2022demo/%D0%98%D0%9D%D0%A4-11%20%D0%95%D0%93%D0%AD%202022_%D0%94%D0%95%D0%9C%D0%9E.pdf)
+
+[ЕГЭ Демо2023 ким](https://github.com/lyctpu/ege/blob/main/2023demo/%D0%98%D0%9D%D0%A4-11%20%D0%95%D0%93%D0%AD%202023_%D0%94%D0%95%D0%9C%D0%9E.pdf)
+
+[ЕГЭ компоненты кода](https://deepnote.com/@lyctpu/ege-b9a3f885-0118-491c-8ce3-80eabda91810)
+
+[ЕГЭ в Excel](https://docs.google.com/spreadsheets/d/1uFQsXgk8wyZK4Q3axKS3t7WFXNkuiTOIcmE72mMsprw/edit?usp=sharing)
+
 ![Урок на youtube](youtube16.png) [Канал Ивана Викторовича](https://www.youtube.com/c/IoanPlugar_inf)
 
 ![Урок на youtube](youtube16.png) [Все программирование для ЕГЭ 2ч18м](https://www.youtube.com/watch?v=iTFwN9ckS9k)
 
 ![Урок на youtube](youtube16.png) [Весь python за час](https://www.youtube.com/watch?v=-v5m3XnVpC8)
 
-[Шпора по python Jupyter Notebook](https://github.com/lyctpu/lyctpu.github.io/blob/main/python%20%D1%88%D0%BF%D0%BE%D1%80%D0%B0.ipynb)
-
--------
-
-### ЕГЭ
-
-<p><a name="ЕГЭ"></a></p>
-
-
-[Досрочное ЕГЭ2022](https://100ballnik.com/%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82-%D1%81-%D0%B4%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B5%D0%B3%D1%8D-2022-%D0%BF%D0%BE-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82/?ysclid=l9i2tuwgl4196137770)
-
-[ЕГЭ Демо2022 реш](https://github.com/lyctpu/ege/blob/main/2022demo/ege2022.ipynb)
-
-[ЕГЭ Демо2023 реш](https://github.com/lyctpu/ege/blob/main/2023demo/ege2023.ipynb)
-
-[ЕГЭ Демо2022 задание](https://github.com/lyctpu/ege/blob/main/2022demo/%D0%98%D0%9D%D0%A4-11%20%D0%95%D0%93%D0%AD%202022_%D0%94%D0%95%D0%9C%D0%9E.pdf)
-
-[ЕГЭ Демо2023 задание](https://github.com/lyctpu/ege/blob/main/2023demo/%D0%98%D0%9D%D0%A4-11%20%D0%95%D0%93%D0%AD%202023_%D0%94%D0%95%D0%9C%D0%9E.pdf)
-
-[ЕГЭ компоненты кода](https://deepnote.com/@lyctpu/ege-b9a3f885-0118-491c-8ce3-80eabda91810)
-
-<a href="https://deepnote.com/@lyctpu/python-shpora-f0662790-1bd3-4dec-b07d-9f3f15002afb" target="_blank">Шпаргалка по python</a>
-
-[ЕГЭ в Excel](https://docs.google.com/spreadsheets/d/1uFQsXgk8wyZK4Q3axKS3t7WFXNkuiTOIcmE72mMsprw/edit?usp=sharing)
-
 ------
+
 <p><a name="Notebooks"></a></p>
 
 ### Notebooks
