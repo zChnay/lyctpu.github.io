@@ -59,9 +59,8 @@
 
 [Ресурсы PYTHON](./python/python.md)
 
-[Ресурсы PYTHON](./python/)
 
-<a href="./python">Ресурсы Python</a>
+<a href="./python/python.md">Ресурсы Python</a>
 
 [Шпора по python Jupyter Notebook](https://github.com/lyctpu/lyctpu.github.io/blob/main/python%20%D1%88%D0%BF%D0%BE%D1%80%D0%B0.ipynb)
 
