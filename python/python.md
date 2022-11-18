@@ -1,7 +1,9 @@
-layout: page
-title: "python.md"
+---
+layout: template
+title: python.md
 permalink: /python
-
+filename: python.md
+---
 
 
 ## Ресурсы PYTHON
