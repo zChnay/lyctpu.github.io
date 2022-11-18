@@ -1,5 +1,5 @@
 layout: page
-title: "python"
+title: "python.md"
 permalink: /python
 
 
