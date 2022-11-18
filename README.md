@@ -57,7 +57,9 @@
 
 [Оформление на языке md](https://gist.github.com/Jekins/2bf2d0638163f1294637#Links)
 
-[Ресурсы PYTHON](/python/python.md)
+[Ресурсы PYTHON](./python/python.md)
+
+[Ресурсы PYTHON](./python/)
 
 <a href="./python">Ресурсы Python</a>
 
