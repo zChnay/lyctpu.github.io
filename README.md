@@ -51,12 +51,13 @@
 
 ### Кодинг
 
+[Скачать папку с GitHub](https://downgit.github.io/#/home)
+
 <a href="https://deepnote.com/@lyctpu/python-shpora-f0662790-1bd3-4dec-b07d-9f3f15002afb" target="_blank">Шпаргалка по python</a>
 
 [Оформление профиля GitHub](https://itnan.ru/post.php?c=1&p=649363)
 
 [Оформление на языке md](https://gist.github.com/Jekins/2bf2d0638163f1294637#Links)
-
 
 <a href="./python">Ресурсы Python</a>
 
