@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css">
 
-![](logo.jpg)       [Сайт лицея](https://portal.tpu.ru/lyceum)
+[![Сайт лицея](logo.jpg)](https://portal.tpu.ru/lyceum)
 
 
 # <a href="./python">Py</a> <a href="./works">WORKS</a> <a href="./faq">F.A.Q.</a>
