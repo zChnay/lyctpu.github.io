@@ -3,7 +3,7 @@ body {
  color: #333366; 
 }
 
-h1,h2,h3 {
+h1, h2, h3 {
   color: #000000; /* Цвет заголовка */
   font-family: Arial, sans-serif; /* Семейство шрифтов */
   font-weight: bold; 
