@@ -27,7 +27,9 @@ GitHub account & repos & pull request
 
 Код Хэмминга
 
-**>> Универсальный решатель задач на кодирование** <a class="iksweb" href="https://hackertyper.net/#" target="_blank"  title="{coder==True}">{coder==True}</a>
+**>> Универсальный решатель задач на кодирование** 
+
+<a class="iksweb" href="https://hackertyper.net/#" target="_blank"  title="{coder==True}">{coder==True}</a>
 
 Сайт на Flask
 
@@ -36,5 +38,11 @@ GitHub account & repos & pull request
 3D-моделирование
 
 ---------------------------
+## Tasks
+### 122
+|Name|Task|
+|-|-|
+|a|s|
+
 ## Future
 
