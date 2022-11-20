@@ -43,3 +43,7 @@ filename: python.md
 
 [python-map-obrabotka](https://webdevblog.ru/python-map-obrabotka-massivov-bez-ciklov/)
 
+## Просто ресурсы
+
+<https://iksweb.ru/tools/cnopka/>
+
