@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 ![](logo.jpg)       [Сайт лицея](https://portal.tpu.ru/lyceum)
 
 
