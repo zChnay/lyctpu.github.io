@@ -27,3 +27,28 @@ h1, h2, h3 {
  border:0px solid #ffffff;
  transition: all 0.2s ease;
 }
+
+.markdown-body table th, .markdown-body table td {
+    padding: 6px 13px;
+    border: 1px solid #dfe2e5;
+}
+
+.markdown-body table th {
+    font-weight: 600;
+}
+
+td, th {
+    padding: 0;
+}
+
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: -internal-center;
+}
+
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+}
