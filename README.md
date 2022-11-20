@@ -2,6 +2,7 @@
 
 [![Сайт лицея](logo.jpg)](https://portal.tpu.ru/lyceum)
 
+# Пример
 
 # <a href="./python">Py</a> <a href="./works">WORKS</a> <a href="./faq">F.A.Q.</a>
 
