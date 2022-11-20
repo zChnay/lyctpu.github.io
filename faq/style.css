@@ -8,3 +8,22 @@ h1, h2, h3 {
   font-family: Arial, Geneva, Helvetica, sans-serif; /* Семейство шрифтов */
   font-weight: bold; 
 }
+
+iksweb {
+ display: inline-block;
+ cursor: pointer; 
+ font-size:16px;
+ text-decoration:none;
+ padding:10px 20px; 
+ color:#000000;
+ background:#3c6380;
+ border-radius:5px;
+ border:0px solid #354251;
+}
+
+iksweb:hover {
+ background:#5599c9;
+ color:#ffffff;
+ border:0px solid #ffffff;
+ transition: all 0.2s ease;
+}
