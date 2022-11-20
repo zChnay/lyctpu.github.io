@@ -2,6 +2,11 @@ h1{
   color: #000000;
 }
 
+a{
+  transition: 1s linear;
+}
+
 a:hover { 
-  text-decoration: none; 
+  text-decoration: none;
+  color:#000000  
 }
