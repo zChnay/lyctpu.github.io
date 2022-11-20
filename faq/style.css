@@ -1,10 +1,10 @@
 body { 
  font-family: Arial, Geneva, Helvetica, sans-serif; 
- color: #333366; 
+ color: #000000; 
 }
 
 h1, h2, h3 {
   color: #000000; /* Цвет заголовка */
-  font-family: Arial, sans-serif; /* Семейство шрифтов */
+  font-family: Arial, Geneva, Helvetica, sans-serif; /* Семейство шрифтов */
   font-weight: bold; 
 }
