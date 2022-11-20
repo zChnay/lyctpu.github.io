@@ -101,6 +101,8 @@
 
 [ВСОШ Ответы](https://sochisirius.ru/uploads/2022/11/vos_school_iikt_9-11_4_sol.pdf)
 
+[Разбор](https://youtu.be/80rvOPYqhUE)
+
 ----------------
 
 <p><a name="Notebooks"></a></p>
