@@ -9,6 +9,10 @@ filename: python.md
 
 # Py
 
+### Среда
+
+<iframe src="https://trinket.io/embed/python3/d968ddbf0e?runOption=run&start=result" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 ## Ресурсы PYTHON
 
 [habr.com](https://habr.com/ru/post/595081/)
