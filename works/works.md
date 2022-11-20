@@ -9,6 +9,8 @@ filename: works.md
 
 # WORKS & TASKS
 
+
+
 ## Works
 
 Входной контроль
@@ -25,7 +27,7 @@ GitHub account & repos & pull request
 
 Код Хэмминга
 
-**>> Универсальный решатель задач на кодирование** 
+**>> Универсальный решатель задач на кодирование** <a class="iksweb" href="https://hackertyper.net/#" target="_blank"  title="{coder==True}">{coder==True}</a>
 
 Сайт на Flask
 
