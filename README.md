@@ -1,8 +1,5 @@
 ![](logo.jpg)       [Сайт лицея](https://portal.tpu.ru/lyceum)
 
-<style>
-  a:hover { text-decoration: none; }
-<style>
 
 # <a href="./python">Py</a> <a href="./works">WORKS</a> <a href="./faq">F.A.Q.</a>
 
