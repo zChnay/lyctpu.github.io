@@ -1,6 +1,6 @@
 ![](logo.jpg)       [Сайт лицея](https://portal.tpu.ru/lyceum)
 
-#### [ТЕСТЫ](https://forms.gle/cwDne3ZF439Vc5127)
+
 
 
 #### <a href="#Кодинг">Кодинг</a>  |  <a href="#ЕГЭ">ЕГЭ</a>    |  <a href="#Notebooks">Notebooks</a>  |   <a href="#Нейросети, ЕГЭ">Нейросети</a>  |   <a href="#БД">БД</a>  |   <a href="#Логика">Логика</a>  |   <a href="#LaTex">LaTex</a>   |   <a href="#Web">Web</a>
@@ -10,6 +10,8 @@
 ### <a href="http://clck.ru/326VLa/" target="_blank">ЖУРНАЛ (google tab)</a>
 
 ### <a href="https://github.com/lyctpu/help" target="_blank">Репозиторий HELP</a>
+
+### [ТЕСТЫ](https://forms.gle/cwDne3ZF439Vc5127)
 
 ---------
 
