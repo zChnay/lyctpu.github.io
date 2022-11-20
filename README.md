@@ -1,7 +1,10 @@
 ![](logo.jpg)       [Сайт лицея](https://portal.tpu.ru/lyceum)
 
+<style>
+  a:hover { text-decoration: none; }
+<style>
 
-
+# <a href="./python">Py</a> <a href="./works">WORKS</a> <a href="./faq">F.A.Q.</a>
 
 #### <a href="#Кодинг">Кодинг</a>  |  <a href="#ЕГЭ">ЕГЭ</a>    |  <a href="#Notebooks">Notebooks</a>  |   <a href="#Нейросети, ЕГЭ">Нейросети</a>  |   <a href="#БД">БД</a>  |   <a href="#Логика">Логика</a>  |   <a href="#LaTex">LaTex</a>   |   <a href="#Web">Web</a>
 
@@ -57,6 +60,8 @@
 [Оформление профиля GitHub](https://itnan.ru/post.php?c=1&p=649363)
 
 [Оформление на языке md](https://gist.github.com/Jekins/2bf2d0638163f1294637#Links)
+
+[Dillinger.io](https://dillinger.io/)
 
 <a href="./python">Ресурсы Python</a>
 
