@@ -1,4 +1,11 @@
-   body { 
-    font-family: Verdana, Arial, Helvetica, sans-serif; 
-    color: #333366; 
-   }
+body { 
+ font-family: Verdana, Arial, Helvetica, sans-serif; 
+ color: #333366; 
+}
+
+h1 {
+  color: #000000; /* Цвет заголовка */
+  font-size: 24pt; /* Размер шрифта в пунктах */
+  font-family: Georgia, Times, serif; /* Семейство шрифтов */
+  font-weight: normal; /* Нормальное начертание текста  */
+}
