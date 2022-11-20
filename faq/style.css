@@ -3,6 +3,13 @@ body {
  color: #000000; 
 }
 
+* {
+ box-sizing: border-box;
+ width: 70%;
+ border: solid #000000 10px;
+ padding: 5px;
+}
+
 h1, h2, h3 {
   color: #000000; /* Цвет заголовка */
   font-family: Arial, Geneva, Helvetica, sans-serif; /* Семейство шрифтов */
