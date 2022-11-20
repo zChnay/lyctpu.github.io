@@ -6,6 +6,7 @@ filename: faq.md
 ---
 
 <link rel="stylesheet" href="style.css">
+# F.A.Q - часто задаваемые вопросы
 
 ## Путеводитель по GitHub
 
