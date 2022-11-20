@@ -15,6 +15,12 @@ filename: python.md
 
 ## Ресурсы PYTHON
 
+<https://pythontutor.com/>
+
+<https://www.brython.info/>
+
+<https://trinket.io/>
+
 [habr.com](https://habr.com/ru/post/595081/)
 
 [novator.team](https://novator.team/post/435)
