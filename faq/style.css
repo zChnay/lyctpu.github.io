@@ -5,7 +5,6 @@ body {
 
 h1,h2,h3 {
   color: #000000; /* Цвет заголовка */
-  font-size: 24pt; /* Размер шрифта в пунктах */
-  font-family: Georgia, Times, serif; /* Семейство шрифтов */
-  font-weight: normal; /* Нормальное начертание текста  */
+  font-family: Arial, sans-serif; /* Семейство шрифтов */
+  font-weight: bold; 
 }
