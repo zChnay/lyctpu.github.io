@@ -5,7 +5,7 @@ permalink: /faq
 filename: faq.md
 ---
 
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="./faq/style.css">
 
 # F.A.Q - часто задаваемые вопросы
 
