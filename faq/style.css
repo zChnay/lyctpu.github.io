@@ -9,7 +9,7 @@ h1, h2, h3 {
   font-weight: bold; 
 }
 
-iksweb {
+.iksweb {
  display: inline-block;
  cursor: pointer; 
  font-size:16px;
@@ -21,7 +21,7 @@ iksweb {
  border:0px solid #354251;
 }
 
-iksweb:hover {
+.iksweb:hover {
  background:#5599c9;
  color:#ffffff;
  border:0px solid #ffffff;
