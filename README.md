@@ -65,6 +65,8 @@
 
 [Шпора по python Jupyter Notebook](https://github.com/lyctpu/lyctpu.github.io/blob/main/python%20%D1%88%D0%BF%D0%BE%D1%80%D0%B0.ipynb)
 
+[Слайд-шоу в Python](https://fixmypc.ru/post/vstavka-teksta-i-izobrazheniia-v-kartinku-s-python-pillow-pil/)
+
 -------
 
 <p><a name="ЕГЭ"></a></p>
@@ -267,12 +269,7 @@ Arduino
 
 Raspberry
 
----------
-
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+--------
 
 
 @lyctpu 2022г.
