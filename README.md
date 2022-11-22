@@ -95,7 +95,7 @@
 
 ![Урок на youtube](youtube16.png) [Весь python за час](https://www.youtube.com/watch?v=-v5m3XnVpC8)
 
-
+[Подготовка](https://docs.google.com/spreadsheets/d/1uFQsXgk8wyZK4Q3axKS3t7WFXNkuiTOIcmE72mMsprw/edit?usp=drivesdk)
 
 ------
 
