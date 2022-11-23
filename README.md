@@ -99,9 +99,9 @@
 
 ------
 
-<p><a name="Олимпиада"></a></p>
+<p><a name="Олимпиады"></a></p>
 
-### Олимпиада
+### Олимпиады
 
 [ВСОШ Задачи](https://sochisirius.ru/uploads/2022/11/vos_school_iikt_9-11_4_tasks.pdf)
 
