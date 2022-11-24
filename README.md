@@ -91,6 +91,10 @@
 
 ![Урок на youtube](youtube16.png) [Канал Ивана Викторовича](https://www.youtube.com/c/IoanPlugar_inf)
 
+[СДАТЬ ЕГЭ](https://foxford.ru/catalog/trainings/informatika/ege)
+
+[РЕШУ ЕГЭ](https://inf-ege.sdamgia.ru/)
+
 ![Урок на youtube](youtube16.png) [Все программирование для ЕГЭ 2ч18м](https://www.youtube.com/watch?v=iTFwN9ckS9k)
 
 ![Урок на youtube](youtube16.png) [Весь python за час](https://www.youtube.com/watch?v=-v5m3XnVpC8)
