@@ -35,6 +35,10 @@ filename: python.md
 
 ![Урок на youtube](youtube16.png) [Программирование в Minecraft на python](https://tproger.ru/articles/programmirovanie-na-python-v-minecraft-besplatnye-videouroki-dlja-detej-i-podrostkov-dlja-detej-ot-9-let/)
 
+SimpleGUI
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kQ8DGP9p2LY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## lambda map
 
 [how-to-use-the-python-map](https://www.digitalocean.com/community/tutorials/how-to-use-the-python-map-function-ru)
