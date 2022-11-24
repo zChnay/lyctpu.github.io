@@ -42,8 +42,6 @@ GitHub account & repos & pull request
 
 ### 122
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTy8iaa1q949GMJwHeW-xiTKAKMofaiOutlrl0XDo0-H_crAajsdf1fPdpUFb0qdXt5_I6c76kxE2eq/pubhtml?gid=654730593&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-
 
 
 | Left-aligned | Center-aligned | Right-aligned |
