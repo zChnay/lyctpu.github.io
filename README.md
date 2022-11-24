@@ -22,6 +22,8 @@
 
 [Яндекс.Алгоритмы](https://yandex.ru/yaintern/algorithm-training#schedule)
 
+[Популярные алгоритмы](https://proglib.io/p/12-algoritmov-kotorye-dolzhen-znat-kazhdyy-razrabotchik-obyasnyaem-na-gifkah-2022-11-21)
+
 [Яндекс.Практикум](https://practicum.yandex.ru/catalog/programming/free/)
 
 [ **НОВОЕ** Яндекс учебники](https://academy.yandex.ru/handbook)
