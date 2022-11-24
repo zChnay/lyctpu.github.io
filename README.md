@@ -267,11 +267,22 @@
 
 ### Робототехника
 
-EV3
+#### EV3
 
-Arduino
+[micro python manual](https://ev3dev-lang.readthedocs.io/projects/python-ev3dev/en/stable/index.html)
 
-Raspberry
+[Lego micro python](https://pybricks.com/ev3-micropython/examples/robot_educator_basic.html)
+
+[EV3DEV OS](https://www.ev3dev.org/downloads/)
+
+
+#### Arduino
+
+#### Raspberry
+
+#### Trick
+
+[модуль Trick](https://trikset.com/education/methodical)
 
 --------
 
