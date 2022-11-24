@@ -28,12 +28,12 @@ h1, h2, h3 {
  transition: all 0.2s ease;
 }
 
-.markdown-body table th, .markdown-body table td {
+table th, table td {
     padding: 6px 13px;
     border: 1px solid #dfe2e5;
 }
 
-.markdown-body table th {
+table th {
     font-weight: 600;
 }
 
