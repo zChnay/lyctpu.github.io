@@ -117,7 +117,7 @@ GitHub account & repos & pull request
 |[10. Тюляндина Яна Александровна][132110] |||
 |[11. Федоров Артем Сергеевич][132111] |||
 |[12. Худобец Надежда Андреевна][132112] |||
-|[13. Черноскутов Артем Вячеславович][132112] |||
+|[13. Черноскутов Артем Вячеславович][132113] |||
 |[14. Шабалина Алёна Руслановна][132114] |||
 
 
@@ -131,10 +131,13 @@ GitHub account & repos & pull request
 [13218]: <https://github.com/MaxThePooh/Class>
 [13219]: <https://github.com/AnastasiaTrofimova/132>
 [132110]: <https://github.com/Yanchik71/->
-
 [132112]: <https://github.com/Yanchik71/->
 [132113]: <https://github.com/Artemonchill/shkolnik>
 [132114]: <https://github.com/alyonkaww/132-alyonka>
+
+
+### 142
+
 | ИМЯ | УРЗ | PyVIDEO  |
 | :---         |     :---:      |          ---: |
 |[1. Аверин Владимир Андреевич](https://github.com/Averin973/repos142)|||
