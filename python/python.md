@@ -15,6 +15,8 @@ filename: python.md
 
 ## Ресурсы PYTHON
 
+[Calc on PySimpleGUI](https://www.geeksforgeeks.org/calculator-using-pysimplegui-python/)
+
 <https://pythontutor.com/>
 
 <https://www.brython.info/>
