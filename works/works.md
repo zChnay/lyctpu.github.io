@@ -135,6 +135,34 @@ GitHub account & repos & pull request
 [132112]: <https://github.com/Yanchik71/->
 [132113]: <https://github.com/Artemonchill/shkolnik>
 [132114]: <https://github.com/alyonkaww/132-alyonka>
+| ИМЯ | УРЗ | PyVIDEO  |
+| :---         |     :---:      |          ---: |
+|[1. Аверин Владимир Андреевич](https://github.com/Averin973/repos142)|||
+|[2. Барабанова Наталия Дмитриевна](https://github.com/Natunka/bober228)|||
+|[3. Баранова Софья Александровна](https://github.com/BaranovaSonya/-)|||
+|[4. Истомина Полина](https://github.com/Vertigro/IstominaPolina)|||
+|[5. Каллас Данил Сергеевич](https://github.com/KuWka-KTZPG/Shlepa2008)|||
+|[6. Клименов Илья Иванович](https://github.com/blakktheme)|||
+|[7. Корзун Никита Александрович](https://github.com/leavingSoSoon)|||
+|[8. Мельник Ульяна Владимировна](https://github.com/UMelnik/Xin45)|||
+|[9. Могильный Борислав Евгеньевич](https://github.com/Elittok/Merci-beaucoup)|||
+|[10. Морозов Никита Юрьевич](https://github.com/nikokastr/main-inform)|||
+|[11. Шелепов Артём Юрьевич](https://github.com/bymyshagg1bark/bazakormit)|||
+|[12. Чойнзонов Алексей Элханович](https://github.com/K1m-Taehyung/TPUliceumInformatique)|||
+|[1. Бельков Вячеслав]()	|||
+|[2. Наумов Сергей](https://github.com/Napv2900/Napv)|||
+|[3. Петров Роман Ильич](https://github.com/romchkkk/repos142)|||
+|[4. Пипина Алина](https://github.com/PleasePomogite/142)|||
+|[5. Попова Анастасия Сергеевна](https://github.com/oxxrayy/popova142)|||
+|[6. Потапова Софья](https://github.com/Ethryna/InfTasks)|||
+|[7. Рибсам Эдуард Евгеньевич](https://github.com/yeryerix/inf)|||
+|[8. Сподина Анастасия](https://github.com/spodinaanastacia/ihatethissite-)|||
+|[9. Стариков Арсений Дмитриевич](https://github.com/murphyqwek/python_lyceum)|||
+|[10. Трущук Артём Максимович](https://github.com/artyomTM/TAM168-142)|||
+|[11. Тухватулин Ахат Александрович](https://github.com/ahattuhva/public)|||
+|[12. Уйманова Валерия Дмитриевна](https://github.com/vvlera/inf)|||
+|[13. Шендеров Владислав Юрьевич](https://github.com/VladOsIkkkk/Reposit142)|||
+|[14. Шипачев Никита Егорович](https://github.com/1nikov7/-.-.-)|||
 
 ## Future
 
