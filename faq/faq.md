@@ -27,7 +27,7 @@ filename: faq.md
 
 <script async src="https://telegram.org/js/telegram-widget.js?21" data-telegram-post="lyctpu/7" data-width="100%"></script>
 
-### Важное дополнение
+### Важное дополнение к Pillow
 
 <script async src="https://telegram.org/js/telegram-widget.js?21" data-telegram-post="group142tpu/254" data-width="100%"></script>
 
