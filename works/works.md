@@ -42,41 +42,42 @@ GitHub account & repos & pull request
 
 ### 122
 
-| ИМЯ | УРЗ | PyVIDEO  |
-| :---         |     :---:      |          ---: |
-|[1. Бакеев Тимур][12211] |||
-|[2. Балаганский Дмитрий][12212] |||
-|[3. Вайс Максим Константинович][12213] |||
-|[4. Воронин Вячеслав][12214] |||
-|[5. Давыдов Никита Алексеевич][12215] |||
-|[6. Демьянчук Андрей][12216] |||
-|[7. Егоров Юрий][12217] |||
-|[8. Иванов Николай][12218] |||
-|[9. Козлова Карина Константиновна][12219] |||
-|[10. Кукина Анна][122110] |||
-|[11. Малахов Кирилл Антонович][122111] |||
-|[12. Никитин Павел Николаевич][122112] |||
-|[13. Осипов Вячеслав][122113] |||
-|[1. Пешков Матвей Андреевич][122114] |||
-|[2. Пирогов Егор Максимович][122115] |||
-|[3. Семёнов Алексей Павлович][122116] |||
-|[4. Силков Александр Максимович][122117] |||
-|[5. Скачкаускас Матвей Александрович][122118] |||
-|[6. Соболев Егор Викторович][122119] |||
-|[7. Степанов Михаил Сергеевич][122120] |||
-|[8. Толстов Илья Александрович][122121] |||
-|[9. Фурсова Анна Станиславовна][122122] |||
-|[10. Хузеев Кирилл Юрьевич ][122123] |||
-|[11. Шабанова Галина Алексеевна][122124] |||
-|[12. Шаманина Виктория Максимовна][122125] |||
-|[13. Шандриков Виктор][122126] |||
-|[14. Эков Илья Андреевич][122127] |||
+| ИМЯ | SITE| УРЗ | PyVIDEO  |
+| :---|:---:| :--:|:--:|
+|[1. Бакеев Тимур][12211] | [![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)| 12 | 12 |
+|[2. Балаганский Дмитрий][12212] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://Dimakek2.github.io) | | |
+|[3. Вайс Максим Константинович][12213] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://weissok.github.io)|||
+|[4. Воронин Вячеслав][12214] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://VoroninVaycheslav.github.io)|||
+|[5. Давыдов Никита Алексеевич][12215] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://NikitaDavydov11.github.io)|||
+|[6. Демьянчук Андрей][12216] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://AndreDem135.github.io)|||
+|[7. Егоров Юрий][12217] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://Prostochell-228.github.io)|||
+|[8. Иванов Николай][12218] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://schukchu.github.io)|||
+|[9. Козлова Карина Константиновна][12219] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://evgrfg.github.io)|||
+|[10. Кукина Анна][122110] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://Aakookie.github.io)|||
+|[11. Малахов Кирилл Антонович][122111] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://kirmala.github.io)|||
+|[12. Никитин Павел Николаевич][122112] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://pxnandi.github.io)|||
+|[13. Осипов Вячеслав][122113] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://NightSkymbry.github.io)|||
+|[1. Пешков Матвей Андреевич][122114] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https:///churka1488.github.io)|||
+|[2. Пирогов Егор Максимович][122115] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://sosiska256.github.io)|||
+|[3. Семёнов Алексей Павлович][122116] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://katela2006.github.io)|||
+|[4. Силков Александр Максимович][122117] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://W1zard70r.github.io)|||
+|[5. Скачкаускас Матвей Александрович][122118] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://Mavaro1.github.io)|||
+|[6. Соболев Егор Викторович][122119] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://ennseg.github.io)|||
+|[7. Степанов Михаил Сергеевич][122120] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://LostnightRX.github.io)|||
+|[8. Толстов Илья Александрович][122121] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://ltlstv.github.io)|||
+|[9. Фурсова Анна Станиславовна][122122] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://afursovaa.github.io)|||
+|[10. Хузеев Кирилл Юрьевич ][122123] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://kirusha02301.github.io)|||
+|[11. Шабанова Галина Алексеевна][122124] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://Galua122.github.io)|||
+|[12. Шаманина Виктория Максимовна][122125] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://Shhamann.github.io)|||
+|[13. Шандриков Виктор][122126] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://viktorblaming.github.io)|||
+|[14. Эков Илья Андреевич][122127] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://ilyechubanu.github.io)|||
 
 
 [12211]: <https://github.com/grad154/timurbakeev154>
 [12212]: <https://github.com/Dimakek2/work>
 [12213]: <https://github.com/weissok/-22>
 [12214]: <https://github.com/VoroninVaycheslav/LearnOfInvormatic>
+
 [12215]: <https://github.com/NikitaDavydov11/FirstRepository>
 [12216]: <https://github.com/AndreDem135/FirstRepository>
 [12217]: <https://github.com/Prostochell-228/UltraloxIT>
@@ -103,22 +104,22 @@ GitHub account & repos & pull request
 
 ### 132
 
-| ИМЯ | УРЗ | PyVIDEO  |
-| :---         |     :---:      |          ---: |
-|[1. Назарова Юлия Романовна][13211] |||
-|[2. Новиков Михаил][13212] |||
-|[3. Одегов Илья Алексеевич][13213] |||
-|[4. Прохоров Арсений Олегович][13214] |||
-|[5. Пустовалов Михаил][13215] |||
-|[6. Рейс Ангелина][13216] |||
-|[7. Романов Сергей Александрович][13217] |||
-|[8. Рощупкин Максим][13218] |||
-|[9. Трофимова Анастасия Андреевна][13219] |||
-|[10. Тюляндина Яна Александровна][132110] |||
-|[11. Федоров Артем Сергеевич][132111] |||
-|[12. Худобец Надежда Андреевна][132112] |||
-|[13. Черноскутов Артем Вячеславович][132113] |||
-|[14. Шабалина Алёна Руслановна][132114] |||
+| ИМЯ | SITE| УРЗ | PyVIDEO  |
+| :---|:---:| :--:|:--:|
+|[1. Назарова Юлия Романовна][13211] ||||
+|[2. Новиков Михаил][13212] ||||
+|[3. Одегов Илья Алексеевич][13213] ||||
+|[4. Прохоров Арсений Олегович][13214] ||||
+|[5. Пустовалов Михаил][13215] ||||
+|[6. Рейс Ангелина][13216] ||||
+|[7. Романов Сергей Александрович][13217] ||||
+|[8. Рощупкин Максим][13218] ||||
+|[9. Трофимова Анастасия Андреевна][13219] ||||
+|[10. Тюляндина Яна Александровна][132110] ||||
+|[11. Федоров Артем Сергеевич][132111] ||||
+|[12. Худобец Надежда Андреевна][132112] ||||
+|[13. Черноскутов Артем Вячеславович][132113] ||||
+|[14. Шабалина Алёна Руслановна][132114] ||||
 
 
 [13211]: <https://github.com/meowwoofwoof/nazarova>
@@ -138,8 +139,8 @@ GitHub account & repos & pull request
 
 ### 142
 
-| ИМЯ | УРЗ | PyVIDEO  |
-| :---         |     :---:      |          ---: |
+| ИМЯ | SITE| УРЗ | PyVIDEO  |
+| :---|:---:| :--:|:--:|
 |[1. Аверин Владимир Андреевич](https://github.com/Averin973/repos142)|||
 |[2. Барабанова Наталия Дмитриевна](https://github.com/Natunka/bober228)|||
 |[3. Баранова Софья Александровна](https://github.com/BaranovaSonya/-)|||
