@@ -75,11 +75,13 @@
 
 ### ЕГЭ
 
+[ЗАДАНИЕ.Задачи](https://github.com/lyctpu/ege/raw/main/%D0%97%D0%B0%D0%B3%D0%B0%D0%B4%D0%BA%D0%B0.exe)
+
 [Досрочное ЕГЭ 2022](https://100ballnik.com/%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82-%D1%81-%D0%B4%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B5%D0%B3%D1%8D-2022-%D0%BF%D0%BE-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82/?ysclid=l9i2tuwgl4196137770)
 
-[ЕГЭ Демо2022 реш](https://github.com/lyctpu/ege/blob/main/2022demo/ege2022.ipynb)
+[ЕГЭ Демо2022 реш](https://deepnote.com/publish/90a94397-bea5-4693-ad44-558a0fd0a5b2)
 
-[ЕГЭ Демо2023 реш](https://github.com/lyctpu/ege/blob/main/2023demo/ege2023.ipynb)
+[ЕГЭ Демо2023 реш](https://deepnote.com/publish/e70e0880-8033-40a8-abb8-4157d3d12909)
 
 [ЕГЭ Демо2022 ким](https://github.com/lyctpu/ege/blob/main/2022demo/%D0%98%D0%9D%D0%A4-11%20%D0%95%D0%93%D0%AD%202022_%D0%94%D0%95%D0%9C%D0%9E.pdf)
 
