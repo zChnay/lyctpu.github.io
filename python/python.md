@@ -17,6 +17,8 @@ filename: python.md
 
 [Calc on PySimpleGUI](https://www.geeksforgeeks.org/calculator-using-pysimplegui-python/)
 
+<https://tproger.ru/translations/python-built-ins-worth-learning/>
+
 <https://pythontutor.com/>
 
 <https://www.brython.info/>
