@@ -27,13 +27,13 @@ GitHub account & repos & pull request
 
 Код Хэмминга
 
-**>> Универсальный решатель задач на кодирование** 
+Универсальный решатель задач на кодирование 
 
 <a class="iksweb" href="https://hackertyper.net/#" target="_blank"  title="{coder==True}">{coder==True}</a>
 
 Сайт на Flask
 
-Слайдшоу на Youtube
+**>> Слайдшоу на Youtube **
 
 3D-моделирование
 
@@ -141,32 +141,32 @@ GitHub account & repos & pull request
 
 | ИМЯ | SITE| УРЗ | PyVIDEO  |
 | :---|:---:| :--:|:--:|
-|[1. Аверин Владимир Андреевич](https://github.com/Averin973/repos142)|||
-|[2. Барабанова Наталия Дмитриевна](https://github.com/Natunka/bober228)|||
-|[3. Баранова Софья Александровна](https://github.com/BaranovaSonya/-)|||
-|[4. Истомина Полина](https://github.com/Vertigro/IstominaPolina)|||
-|[5. Каллас Данил Сергеевич](https://github.com/KuWka-KTZPG/Shlepa2008)|||
-|[6. Клименов Илья Иванович](https://github.com/blakktheme)|||
-|[7. Корзун Никита Александрович](https://github.com/leavingSoSoon)|||
-|[8. Мельник Ульяна Владимировна](https://github.com/UMelnik/Xin45)|||
-|[9. Могильный Борислав Евгеньевич](https://github.com/Elittok/Merci-beaucoup)|||
-|[10. Морозов Никита Юрьевич](https://github.com/nikokastr/main-inform)|||
-|[11. Шелепов Артём Юрьевич](https://github.com/bymyshagg1bark/bazakormit)|||
-|[12. Чойнзонов Алексей Элханович](https://github.com/K1m-Taehyung/TPUliceumInformatique)|||
-|[1. Бельков Вячеслав]()	|||
-|[2. Наумов Сергей](https://github.com/Napv2900/Napv)|||
-|[3. Петров Роман Ильич](https://github.com/romchkkk/repos142)|||
-|[4. Пипина Алина](https://github.com/PleasePomogite/142)|||
-|[5. Попова Анастасия Сергеевна](https://github.com/oxxrayy/popova142)|||
-|[6. Потапова Софья](https://github.com/Ethryna/InfTasks)|||
-|[7. Рибсам Эдуард Евгеньевич](https://github.com/yeryerix/inf)|||
-|[8. Сподина Анастасия](https://github.com/spodinaanastacia/ihatethissite-)|||
-|[9. Стариков Арсений Дмитриевич](https://github.com/murphyqwek/python_lyceum)|||
-|[10. Трущук Артём Максимович](https://github.com/artyomTM/TAM168-142)|||
-|[11. Тухватулин Ахат Александрович](https://github.com/ahattuhva/public)|||
-|[12. Уйманова Валерия Дмитриевна](https://github.com/vvlera/inf)|||
-|[13. Шендеров Владислав Юрьевич](https://github.com/VladOsIkkkk/Reposit142)|||
-|[14. Шипачев Никита Егорович](https://github.com/1nikov7/-.-.-)|||
+|[1. Аверин Владимир Андреевич](https://github.com/Averin973/repos142)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[2. Барабанова Наталия Дмитриевна](https://github.com/Natunka/bober228)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[3. Баранова Софья Александровна](https://github.com/BaranovaSonya/-)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[4. Истомина Полина](https://github.com/Vertigro/IstominaPolina)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[5. Каллас Данил Сергеевич](https://github.com/KuWka-KTZPG/Shlepa2008)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[6. Клименов Илья Иванович](https://github.com/blakktheme)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[7. Корзун Никита Александрович](https://github.com/leavingSoSoon)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[8. Мельник Ульяна Владимировна](https://github.com/UMelnik/Xin45)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[9. Могильный Борислав Евгеньевич](https://github.com/Elittok/Merci-beaucoup)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[10. Морозов Никита Юрьевич](https://github.com/nikokastr/main-inform)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[11. Шелепов Артём Юрьевич](https://github.com/bymyshagg1bark/bazakormit)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[12. Чойнзонов Алексей Элханович](https://github.com/K1m-Taehyung/TPUliceumInformatique)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[1. Бельков Вячеслав]()	|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[2. Наумов Сергей](https://github.com/Napv2900/Napv)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[3. Петров Роман Ильич](https://github.com/romchkkk/repos142)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[4. Пипина Алина](https://github.com/PleasePomogite/142)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[5. Попова Анастасия Сергеевна](https://github.com/oxxrayy/popova142)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[6. Потапова Софья](https://github.com/Ethryna/InfTasks)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[7. Рибсам Эдуард Евгеньевич](https://github.com/yeryerix/inf)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[8. Сподина Анастасия](https://github.com/spodinaanastacia/ihatethissite-)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[9. Стариков Арсений Дмитриевич](https://github.com/murphyqwek/python_lyceum)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[10. Трущук Артём Максимович](https://github.com/artyomTM/TAM168-142)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[11. Тухватулин Ахат Александрович](https://github.com/ahattuhva/public)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[12. Уйманова Валерия Дмитриевна](https://github.com/vvlera/inf)[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)|||
+|[13. Шендеров Владислав Юрьевич](https://github.com/VladOsIkkkk/Reposit142)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
+|[14. Шипачев Никита Егорович](https://github.com/1nikov7/-.-.-)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
 
 ## Future
 
