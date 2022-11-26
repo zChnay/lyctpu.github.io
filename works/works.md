@@ -164,7 +164,7 @@ GitHub account & repos & pull request
 |[9. Стариков Арсений Дмитриевич](https://github.com/murphyqwek/python_lyceum)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
 |[10. Трущук Артём Максимович](https://github.com/artyomTM/TAM168-142)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
 |[11. Тухватулин Ахат Александрович](https://github.com/ahattuhva/public)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
-|[12. Уйманова Валерия Дмитриевна](https://github.com/vvlera/inf)[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)|||
+|[12. Уйманова Валерия Дмитриевна](https://github.com/vvlera/inf)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
 |[13. Шендеров Владислав Юрьевич](https://github.com/VladOsIkkkk/Reposit142)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
 |[14. Шипачев Никита Егорович](https://github.com/1nikov7/-.-.-)|[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)||
 
