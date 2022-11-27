@@ -42,6 +42,9 @@ GitHub account & repos & pull request
 
 ### 122
 
+[122a](http://89234422454.ru/wp-content/uploads/2022/11/122a.html)
+[122b](http://89234422454.ru/wp-content/uploads/2022/11/122b.html)
+
 | ИМЯ | SITE| УРЗ | PyVIDEO  |
 | :---|:---:| :--:|:--:|
 |[1. Бакеев Тимур][12211] | [![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)| 12 | 12 |
