@@ -29,13 +29,13 @@ GitHub account & repos & pull request
 
 Универсальный решатель задач на кодирование 
 
-<a class="iksweb" href="https://hackertyper.net/#" target="_blank"  title="{coder==True}">{coder==True}</a>
-
 Сайт на Flask
 
-**>> Слайдшоу на Youtube **
+** >> Слайдшоу на Youtube **
 
 3D-моделирование
+
+<a class="iksweb" href="https://hackertyper.net/#" target="_blank"  title="{coder==True}">{coder==True}</a>
 
 ---------------------------
 ## Tasks
@@ -47,7 +47,7 @@ GitHub account & repos & pull request
 
 | ИМЯ | SITE| УРЗ | PyVIDEO  |
 | :---|:---:| :--:|:--:|
-|[1. Бакеев Тимур][12211] | [![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)| 12 | 12 |
+|[1. Бакеев Тимур][12211] | [![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://grad154.github.io)|  |  |
 |[2. Балаганский Дмитрий][12212] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://Dimakek2.github.io) | | |
 |[3. Вайс Максим Константинович][12213] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://weissok.github.io)|||
 |[4. Воронин Вячеслав][12214] |[![](https://user-images.githubusercontent.com/114549805/203996559-8eb67bc7-0eb2-4137-b2cf-40582ba8f531.png)](https://VoroninVaycheslav.github.io)|||
