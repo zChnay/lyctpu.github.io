@@ -16,6 +16,9 @@
 
 ### РЕСУРСЫ
 
+[Буллинг](https://kachestvo.pro/academy/lessons/Kachestvo-obshcheniya-v-seti-Internet/)
+
+
 ![](free-icon-open-book-4797975.png) [КНИГИ ПО IT и не только](https://drive.google.com/drive/folders/1-YlbZFhnsgs94KVFq6t-HQ6aEWJ4vuwB?usp=sharing)
 
 [Яндекс.Алгоритмы](https://yandex.ru/yaintern/algorithm-training#schedule)
