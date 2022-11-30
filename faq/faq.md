@@ -32,3 +32,11 @@ filename: faq.md
 <script async src="https://telegram.org/js/telegram-widget.js?21" data-telegram-post="group142tpu/254" data-width="100%"></script>
 
 <script async src="https://telegram.org/js/telegram-widget.js?21" data-telegram-post="lyctpu/8" data-width="100%"></script>
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
