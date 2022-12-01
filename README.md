@@ -10,7 +10,7 @@
 
 ## <a href="https://github.com/lyctpu/help" target="_blank">Репозиторий HELP</a>
 
-## [ТЕСТЫ](https://forms.gle/cwDne3ZF439Vc5127)
+## [Универсальный тест](https://forms.gle/mYJ4X1Acsy4v3j27A)
 
 ---------
 
