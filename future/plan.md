@@ -30,3 +30,5 @@ https://ifhub.club/blog/ifengines/
 https://sferum.ru/?call_link=4UWopXQuuKcUFm21avtzSfDDDJ3tJYI4xss2HpqJn8k
 
 <https://view.genial.ly/6370c813839aab0012df70f9/interactive-image-interactive-image>
+
+![ROj12i9034NtEKNe0Tfzk-azIYcn4tIWanbclhWGxsvKT6KMZtnuRswGYciwwFrGSKJ4RDmjomKeup2KG-obz7jE_1CsawJhsl6Ts6-iAe53tdls-7_x7TjDJot2w-dJGXiuH3bNIHCzI2tGx73t2G00](https://user-images.githubusercontent.com/114549805/205330304-7f11a529-5fc5-44fd-be42-836b8f044e49.svg)
