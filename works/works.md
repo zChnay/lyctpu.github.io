@@ -9,8 +9,6 @@ filename: works.md
 
 # WORKS & TASKS
 
-
-
 ## Works
 
 Входной контроль
@@ -27,11 +25,15 @@ GitHub account & repos & pull request
 
 Код Хэмминга
 
-Универсальный решатель задач на кодирование 
+УРЗ
 
 Сайт на Flask
 
-** >> Слайдшоу на Youtube **
+Слайдшоу на YouTube
+
+Создание квеста
+
+Python в minecraft
 
 3D-моделирование
 
