@@ -12,7 +12,7 @@ filename: works.md
 ## Works
 
 
-| Название |021а|021б| 031а | 031б | 041б | 051б | 122а | 122б | 132б |142а| 142б | 152аб |
+| Название |021а|021б| 031а | 031б | 041б | 051б | [122а][122a] | [122б][122b] | [132б][132b] |[142а][142a]| [142б][142b] | 152аб |
 | :---     |:---: | :--: |:--:  | :--:     | :--:     | :--:     | :--:     | :--:     | :--:     | :--:   | :--:     | :--:      |
 | ВК       |      |      |      |      |      |      |      |      |      |    |      |       |
 | CC xls | |  |||  |  |  ||  ||  ||
@@ -59,20 +59,22 @@ filename: works.md
 
 ## Tasks
 
+
+
+[122a]: <http://89234422454.ru/wp-content/uploads/2022/11/122a.html>
+[122b]:<http://89234422454.ru/wp-content/uploads/2022/11/122b.html>
+[132b]:<http://89234422454.ru/wp-content/uploads/2022/11/132b.html>
+[142a]:<http://89234422454.ru/wp-content/uploads/2022/11/142a.html>
+[142b]:<http://89234422454.ru/wp-content/uploads/2022/11/142b.html>
+
+[021a]:<http://89234422454.ru/wp-content/uploads/2022/11/021a.html>
+[021b]:<http://89234422454.ru/wp-content/uploads/2022/11/021b.html>
+[031a]:<http://89234422454.ru/wp-content/uploads/2022/11/031a.html>
+[031b]:<http://89234422454.ru/wp-content/uploads/2022/11/031b.html>
+[041b]:<http://89234422454.ru/wp-content/uploads/2022/11/041b.html>
+[051b]:<http://89234422454.ru/wp-content/uploads/2022/11/051b.html>
+
 ### 122
-
-[122a](http://89234422454.ru/wp-content/uploads/2022/11/122a.html)
-[122b](http://89234422454.ru/wp-content/uploads/2022/11/122b.html)
-[132b](http://89234422454.ru/wp-content/uploads/2022/11/132b.html)
-[142a](http://89234422454.ru/wp-content/uploads/2022/11/142a.html)
-[142b](http://89234422454.ru/wp-content/uploads/2022/11/142b.html)
-
-[021a](http://89234422454.ru/wp-content/uploads/2022/11/021a.html)
-[021b](http://89234422454.ru/wp-content/uploads/2022/11/021b.html)
-[031a](http://89234422454.ru/wp-content/uploads/2022/11/031a.html)
-[031b](http://89234422454.ru/wp-content/uploads/2022/11/031b.html)
-[041b](http://89234422454.ru/wp-content/uploads/2022/11/041b.html)
-[051b](http://89234422454.ru/wp-content/uploads/2022/11/051b.html)
 
 | ИМЯ | SITE| УРЗ | PyVIDEO  |
 | :---|:---:| :--:|:--:|
