@@ -202,4 +202,10 @@ filename: works.md
 
 ## Future
 
+<https://www.svgmator.com/>
+<https://svgartista.net/>
+<https://maxwellito.github.io/vivus-instant/>
+<https://svgcircus.com/>
+<https://loading.io/>
+
 Шахматные этюды
