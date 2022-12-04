@@ -63,6 +63,16 @@ filename: works.md
 
 [122a](http://89234422454.ru/wp-content/uploads/2022/11/122a.html)
 [122b](http://89234422454.ru/wp-content/uploads/2022/11/122b.html)
+[132b](http://89234422454.ru/wp-content/uploads/2022/11/132b.html)
+[142a](http://89234422454.ru/wp-content/uploads/2022/11/142a.html)
+[142b](http://89234422454.ru/wp-content/uploads/2022/11/142b.html)
+
+[021a](http://89234422454.ru/wp-content/uploads/2022/11/021a.html)
+[021b](http://89234422454.ru/wp-content/uploads/2022/11/021b.html)
+[031a](http://89234422454.ru/wp-content/uploads/2022/11/031a.html)
+[031b](http://89234422454.ru/wp-content/uploads/2022/11/031b.html)
+[041b](http://89234422454.ru/wp-content/uploads/2022/11/041b.html)
+[051b](http://89234422454.ru/wp-content/uploads/2022/11/051b.html)
 
 | ИМЯ | SITE| УРЗ | PyVIDEO  |
 | :---|:---:| :--:|:--:|
@@ -192,5 +202,3 @@ filename: works.md
 ## Future
 
 Шахматные этюды
-
-
