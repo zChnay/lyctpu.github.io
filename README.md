@@ -16,8 +16,11 @@
 
 ### РЕСУРСЫ
 
-[Буллинг](https://disk.yandex.ru/d/tdx6okUnecx3Og)
+[MidJourney](https://lifehacker.ru/kak-polzovatsya-midjourney/)
 
+[Запросы MidJourney](https://promptomania.com/midjourney-prompt-builder/)
+
+[Сетевой Буллинг](https://disk.yandex.ru/d/tdx6okUnecx3Og)
 
 ![](free-icon-open-book-4797975.png) [КНИГИ ПО IT и не только](https://drive.google.com/drive/folders/1-YlbZFhnsgs94KVFq6t-HQ6aEWJ4vuwB?usp=sharing)
 
