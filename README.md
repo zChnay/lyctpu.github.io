@@ -140,6 +140,8 @@
 
 [Гайд 2](https://habr.com/ru/post/485318/)
 
+[Продвинутвй гайд 1](https://habr.com/ru/company/wunderfund/blog/316826/)
+
 ------
 <p><a name="Квесты"></a></p>
 
