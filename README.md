@@ -136,6 +136,10 @@
 
 [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=5fCEDCU_qrC0)
 
+[Гайд 1](https://webdevblog.ru/jupyter-notebook-dlya-nachinajushhih-uchebnik/)
+
+[Гайд 2](https://habr.com/ru/post/485318/)
+
 ------
 <p><a name="Квесты"></a></p>
 
