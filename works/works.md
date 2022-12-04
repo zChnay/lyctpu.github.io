@@ -45,32 +45,8 @@ filename: works.md
 |py в Minecraft| |  |||  |  |  ||  ||  ||
 |3d modelling| |  |||  |  |  ||  ||  ||
 
+------
 
-Входной контроль
-
-Excel формулы
-
-Markdown
-
-GitHub account & repos & pull request
-
-Системы счисления
-
-Код Морзе
-
-Код Хэмминга
-
-УРЗ
-
-Сайт на Flask
-
-Слайдшоу на YouTube
-
-Создание квеста
-
-Python в minecraft
-
-3D-моделирование
 
 <a class="iksweb" href="https://hackertyper.net/#" target="_blank"  title="{coder==True}">{coder==True}</a>
 
@@ -118,7 +94,6 @@ Python в minecraft
 [12212]: <https://github.com/Dimakek2/work>
 [12213]: <https://github.com/weissok/-22>
 [12214]: <https://github.com/VoroninVaycheslav/LearnOfInvormatic>
-
 [12215]: <https://github.com/NikitaDavydov11/FirstRepository>
 [12216]: <https://github.com/AndreDem135/FirstRepository>
 [12217]: <https://github.com/Prostochell-228/UltraloxIT>
@@ -211,3 +186,4 @@ Python в minecraft
 
 ## Future
 
+Шахматные этюды
