@@ -123,8 +123,6 @@
 
 <a href="./olymp">Инструкция на пробник</a>
 
-[Инструкция на пробник](./olymp)
-
 [ВСОШ Задачи](https://sochisirius.ru/uploads/2022/11/vos_school_iikt_9-11_4_tasks.pdf)
 
 [ВСОШ Ответы](https://sochisirius.ru/uploads/2022/11/vos_school_iikt_9-11_4_sol.pdf)
