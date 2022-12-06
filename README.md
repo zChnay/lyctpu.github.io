@@ -1,7 +1,6 @@
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" type="text/css" href="https://nst1.gismeteo.ru/assets/flat-ui/legacy/css/informer.min.css">
 
-as
 
 <style>
 .nav div {
