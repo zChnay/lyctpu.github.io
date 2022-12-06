@@ -1,14 +1,26 @@
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" type="text/css" href="https://nst1.gismeteo.ru/assets/flat-ui/legacy/css/informer.min.css">
 
 ads
 
 <style>
-
+.nav div {
+    display: inline-block;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px; 
+}
 </style>
 
-<link rel="stylesheet" type="text/css" href="https://nst1.gismeteo.ru/assets/flat-ui/legacy/css/informer.min.css">
 
-<div id="gsInformerID-kMdf52D061778P" class="gsInformer" style="width:500px;height:250px">
+
+<div class="nav">
+<div>
+<a href="https://portal.tpu.ru/lyceum"><img src="logo.jpg"></a>
+</div>
+
+<div>
+<div id="gsInformerID-kMdf52D061778P" class="gsInformer" style="width:239px;height:170px">
     <div class="gsIContent">
         <div id="cityLink">
             <a href="https://www.gismeteo.ru/weather-tomsk-4652/" target="_blank" title="Томск">
@@ -16,7 +28,6 @@ ads
             </a></div>
         <div class="gsLinks">
             <table><tr>
-                <td> <a href="https://portal.tpu.ru/lyceum"><img src="logo.jpg"></a> </td>
                 <td><div class="leftCol">
                             <a href="https://www.gismeteo.ru/" target="_blank" title="Погода">
                                 <img alt="Погода" src="https://nst1.gismeteo.ru/assets/flat-ui/img/logo-mini2.png" align="middle" border="0" width="11" height="16" />
@@ -25,11 +36,12 @@ ads
                             <div class="rightCol">
                                 <a href="https://www.gismeteo.ru/weather-tomsk-4652/2-weeks/" target="_blank" title="на 2 недели">
                                     <img src="https://nst1.gismeteo.ru/assets/flat-ui/img/informer/forecast-2weeks.ru.svg" border="0" align="middle" style="top:auto" alt="на 2 недели">
-                                </a></div></td>
-                <td><iframe width='250' height='139' style='padding:0!important;margin:0!important;border:none!important;background:none!important;background:transparent!important' marginheight='0' marginwidth='0' frameborder='0' scrolling='no' comment='/*defined*/' src='https://dayspedia.com/if/digit/?v=1&iframe=eyJ3LTEyIjpmYWxzZSwidy0xMSI6dHJ1ZSwidy0xMyI6dHJ1ZSwidy0xNCI6ZmFsc2UsInctMTUiOmZhbHNlLCJ3LTExMCI6ZmFsc2UsInctd2lkdGgtMCI6ZmFsc2UsInctd2lkdGgtMSI6ZmFsc2UsInctd2lkdGgtMiI6dHJ1ZSwidy0xNiI6IjE2cHggMTZweCAyNHB4Iiwidy0xOSI6IjQ4Iiwidy0xNyI6IjEyIiwidy0yMSI6dHJ1ZSwiYmdpbWFnZSI6MiwiYmdpbWFnZVNldCI6dHJ1ZSwidy0yMWMwIjoiI2ZmZmZmZiIsInctMCI6dHJ1ZSwidy0zIjpmYWxzZSwidy0zYzAiOiIjMzQzNDM0Iiwidy0zYjAiOiIxIiwidy02IjoiIzM0MzQzNCIsInctMjAiOnRydWUsInctNCI6IiMwMDdkYmYiLCJ3LTE4Ijp0cnVlLCJ3LXdpZHRoLTJjLTAiOiIyNTAiLCJ3LTExNSI6ZmFsc2V9&lang=ru&cityid=5720'></iframe></td>
-                </tr></table></div></div></div>
+                                </a></div></td></tr></table></div></div></div>
+</div>
                 
+<div><iframe width='250' height='139' style='padding:0!important;margin:0!important;border:none!important;background:none!important;background:transparent!important' marginheight='0' marginwidth='0' frameborder='0' scrolling='no' comment='/*defined*/' src='https://dayspedia.com/if/digit/?v=1&iframe=eyJ3LTEyIjpmYWxzZSwidy0xMSI6dHJ1ZSwidy0xMyI6dHJ1ZSwidy0xNCI6ZmFsc2UsInctMTUiOmZhbHNlLCJ3LTExMCI6ZmFsc2UsInctd2lkdGgtMCI6ZmFsc2UsInctd2lkdGgtMSI6ZmFsc2UsInctd2lkdGgtMiI6dHJ1ZSwidy0xNiI6IjE2cHggMTZweCAyNHB4Iiwidy0xOSI6IjQ4Iiwidy0xNyI6IjEyIiwidy0yMSI6dHJ1ZSwiYmdpbWFnZSI6MiwiYmdpbWFnZVNldCI6dHJ1ZSwidy0yMWMwIjoiI2ZmZmZmZiIsInctMCI6dHJ1ZSwidy0zIjpmYWxzZSwidy0zYzAiOiIjMzQzNDM0Iiwidy0zYjAiOiIxIiwidy02IjoiIzM0MzQzNCIsInctMjAiOnRydWUsInctNCI6IiMwMDdkYmYiLCJ3LTE4Ijp0cnVlLCJ3LXdpZHRoLTJjLTAiOiIyNTAiLCJ3LTExNSI6ZmFsc2V9&lang=ru&cityid=5720'></iframe></div>
 
+</div>
 
 <script async src="https://www.gismeteo.ru/api/informer/getinformer/?hash=kMdf52D061778P"></script>
 
