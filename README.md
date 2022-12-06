@@ -29,7 +29,7 @@
 
 
 
-# <a href="./python">Py</a> <a href="./works">WORKS</a> <a href="./faq">F.A.Q.</a>
+# <a href="./python">Py</a> :: <a href="./works">WORKS</a> :: <a href="./faq">F.A.Q.</a>
 
 ## <a href="#Кодинг">Кодинг</a>  |  <a href="#ЕГЭ">ЕГЭ</a>  |  <a href="#Олимпиады">Олимпиады</a>  | <a href="#Notebooks">Notebooks</a>  |   <a href="#Нейросети, ЕГЭ">Нейросети</a>  |   <a href="#БД">БД</a>  |   <a href="#Логика">Логика</a>  |   <a href="#LaTex">LaTex</a>   |   <a href="#Web">Web</a> |   <a href="#Схемы">Схемы</a> 
 
