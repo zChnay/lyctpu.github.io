@@ -1,5 +1,13 @@
 <link rel="stylesheet" href="style.css">
 
+<style>
+div {
+    display: inline-block;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px; 
+}
+</style>
 
 <link rel="stylesheet" type="text/css" href="https://nst1.gismeteo.ru/assets/flat-ui/legacy/css/informer.min.css">
 
