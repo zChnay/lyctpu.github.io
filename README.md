@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css">
 
-
+sdf
 <link rel="stylesheet" type="text/css" href="https://nst1.gismeteo.ru/assets/flat-ui/legacy/css/informer.min.css">
 
 <div id="gsInformerID-kMdf52D061778P" class="gsInformer" style="width:239px;height:117px">
