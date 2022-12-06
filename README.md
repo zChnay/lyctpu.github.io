@@ -11,10 +11,7 @@
             </a></div>
         <div class="gsLinks">
             <table><tr>
-                <td>
-                    
-[![Сайт лицея](logo.jpg)](https://portal.tpu.ru/lyceum) 
-                </td>
+                <td> <a href="https://portal.tpu.ru/lyceum"><img src="logo.jpg"></a> </td>
                 <td><div class="leftCol">
                             <a href="https://www.gismeteo.ru/" target="_blank" title="Погода">
                                 <img alt="Погода" src="https://nst1.gismeteo.ru/assets/flat-ui/img/logo-mini2.png" align="middle" border="0" width="11" height="16" />
@@ -23,7 +20,9 @@
                             <div class="rightCol">
                                 <a href="https://www.gismeteo.ru/weather-tomsk-4652/2-weeks/" target="_blank" title="на 2 недели">
                                     <img src="https://nst1.gismeteo.ru/assets/flat-ui/img/informer/forecast-2weeks.ru.svg" border="0" align="middle" style="top:auto" alt="на 2 недели">
-                                </a></div></td></tr></table></div></div></div>
+                                </a></div></td>
+                <td></td>
+                </tr></table></div></div></div>
 <script async src="https://www.gismeteo.ru/api/informer/getinformer/?hash=kMdf52D061778P"></script>
 
 
