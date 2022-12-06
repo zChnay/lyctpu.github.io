@@ -20,7 +20,7 @@ ad
 </div>
 
 <div>
-<div id="gsInformerID-kMdf52D061778P" class="gsInformer" style="width:239px;height:170px">
+<div id="gsInformerID-kMdf52D061778P" class="gsInformer" style="width:239px;height:117px">
     <div class="gsIContent">
         <div id="cityLink">
             <a href="https://www.gismeteo.ru/weather-tomsk-4652/" target="_blank" title="Томск">
