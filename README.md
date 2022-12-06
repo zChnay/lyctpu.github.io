@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css">
 
-sdf
+
 <link rel="stylesheet" type="text/css" href="https://nst1.gismeteo.ru/assets/flat-ui/legacy/css/informer.min.css">
 
 <div id="gsInformerID-kMdf52D061778P" class="gsInformer" style="width:239px;height:117px">
@@ -11,7 +11,10 @@ sdf
             </a></div>
         <div class="gsLinks">
             <table><tr>
-                <td>[![Сайт лицея](logo.jpg)](https://portal.tpu.ru/lyceum) </td>
+                <td>
+                    
+[![Сайт лицея](logo.jpg)](https://portal.tpu.ru/lyceum) 
+                </td>
                 <td><div class="leftCol">
                             <a href="https://www.gismeteo.ru/" target="_blank" title="Погода">
                                 <img alt="Погода" src="https://nst1.gismeteo.ru/assets/flat-ui/img/logo-mini2.png" align="middle" border="0" width="11" height="16" />
