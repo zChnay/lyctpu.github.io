@@ -8,7 +8,7 @@ ads
 
 <link rel="stylesheet" type="text/css" href="https://nst1.gismeteo.ru/assets/flat-ui/legacy/css/informer.min.css">
 
-<div id="gsInformerID-kMdf52D061778P" class="gsInformer" style="width:239px;height:117px">
+<div id="gsInformerID-kMdf52D061778P" class="gsInformer" style="width:500px;height:117px">
     <div class="gsIContent">
         <div id="cityLink">
             <a href="https://www.gismeteo.ru/weather-tomsk-4652/" target="_blank" title="Томск">
