@@ -1,11 +1,11 @@
 <link rel="stylesheet" href="style.css">
 
-<link rel="stylesheet" type="text/css" href="https://nst1.gismeteo.ru/assets/flat-ui/legacy/css/informer.min.css">
+[![Сайт лицея](logo.jpg)](https://portal.tpu.ru/lyceum) <link rel="stylesheet" type="text/css" href="https://nst1.gismeteo.ru/assets/flat-ui/legacy/css/informer.min.css">
 <div id="gsInformerID-kMdf52D061778P" class="gsInformer" style="width:239px;height:117px">
     <div class="gsIContent">
         <div id="cityLink">
-            <a href="https://www.gismeteo.ru/weather-tomsk-4652/" target="_blank" title="Погода в Томске">
-                <img src="https://nst1.gismeteo.ru/assets/flat-ui/img/gisloader.svg" width="24" height="24" alt="Погода в Томске">
+            <a href="https://www.gismeteo.ru/weather-tomsk-4652/" target="_blank" title="Томск">
+                <img src="https://nst1.gismeteo.ru/assets/flat-ui/img/gisloader.svg" width="24" height="24" alt="Томск">
             </a>
             </div>
         <div class="gsLinks">
@@ -19,8 +19,8 @@
                             </a>
                             </div>
                             <div class="rightCol">
-                                <a href="https://www.gismeteo.ru/weather-tomsk-4652/2-weeks/" target="_blank" title="Погода в Томске на 2 недели">
-                                    <img src="https://nst1.gismeteo.ru/assets/flat-ui/img/informer/forecast-2weeks.ru.svg" border="0" align="middle" style="top:auto" alt="Погода в Томске на 2 недели">
+                                <a href="https://www.gismeteo.ru/weather-tomsk-4652/2-weeks/" target="_blank" title="на 2 недели">
+                                    <img src="https://nst1.gismeteo.ru/assets/flat-ui/img/informer/forecast-2weeks.ru.svg" border="0" align="middle" style="top:auto" alt="на 2 недели">
                                 </a>
                             </div>
                         </td>
@@ -31,7 +31,7 @@
 </div>
 <script async src="https://www.gismeteo.ru/api/informer/getinformer/?hash=kMdf52D061778P"></script>
 
-[![Сайт лицея](logo.jpg)](https://portal.tpu.ru/lyceum)
+
 
 # <a href="./python">Py</a> <a href="./works">WORKS</a> <a href="./faq">F.A.Q.</a>
 
