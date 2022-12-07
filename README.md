@@ -37,6 +37,8 @@
 
 ## <a href="https://github.com/lyctpu/help" target="_blank">Репозиторий HELP</a>
 
+## [Реп сайта](https://github.com/lyctpu/lyctpu.github.io)
+
 ## [Универсальный тест](https://forms.gle/mYJ4X1Acsy4v3j27A)
 
 ---------
