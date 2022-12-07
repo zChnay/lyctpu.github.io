@@ -13,7 +13,10 @@ filename: olymp.md
 4. Разобрать [задания](https://drive.google.com/file/d/1iHDbp3xisoi1d_IDSzslV9iU0AqPZMxy/view?usp=share_link) пробного этапа на предмет способов полуения очков.
 
 Для доступа участников к документации рекомендуется разместить на компьютерах участников или в локальной сети локальные копии*:
-документации по языку C++, например http://cppreference.com;
-документации по языку Паскаль с https://www.freepascal.org/docs.var;
-документации по Java API с https://docs.oracle.com/en/java/;
-документации по языку Python с https://docs.python.org/3/;
+документации по языку C++, например <http://cppreference.com> ;
+
+документации по языку Паскаль с <https://www.freepascal.org/docs.var> ;
+
+документации по Java API с <https://docs.oracle.com/en/java/> ;
+
+документации по языку Python с <https://docs.python.org/3/> ;
