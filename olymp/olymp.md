@@ -12,3 +12,8 @@ filename: olymp.md
 3. Согласно [инструкции](https://docs.google.com/document/d/1hymEuUquEW_5cGhRrPe3xzq61dzxSkFu/edit?usp=share_link&ouid=107494456497398816128&rtpof=true&sd=true) Зайти на codeforce под логином/паролем и обязательно попробовать пробный этап.
 4. Разобрать [задания](https://drive.google.com/file/d/1iHDbp3xisoi1d_IDSzslV9iU0AqPZMxy/view?usp=share_link) пробного этапа на предмет способов полуения очков.
 
+Для доступа участников к документации рекомендуется разместить на компьютерах участников или в локальной сети локальные копии*:
+документации по языку C++, например http://cppreference.com;
+документации по языку Паскаль с https://www.freepascal.org/docs.var;
+документации по Java API с https://docs.oracle.com/en/java/;
+документации по языку Python с https://docs.python.org/3/;
