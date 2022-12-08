@@ -59,6 +59,14 @@
 
 [Популярные алгоритмы](https://proglib.io/p/12-algoritmov-kotorye-dolzhen-znat-kazhdyy-razrabotchik-obyasnyaem-na-gifkah-2022-11-21)
 
+[Машина Тьюринга](https://youtu.be/s7R8HXpgiHA)
+
+[Кванты](https://youtu.be/Rib1DUTORLA)
+
+[Генетический алгоритм 1](https://youtu.be/mxK4gq0odTo)
+
+[Генетический алгоритм 2](https://youtu.be/52g2Qi_4X3E)
+
 [Яндекс.Практикум](https://practicum.yandex.ru/catalog/programming/free/)
 
 [ **НОВОЕ** Яндекс учебники](https://academy.yandex.ru/handbook)
