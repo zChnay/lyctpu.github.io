@@ -52,3 +52,27 @@ table {
     border-spacing: 0;
     border-collapse: collapse;
 }
+
+.falling {
+    width: 100%;
+    height: 500px;
+    position: relative;
+    background-image: url("/upload/sparticles/photo-bg.jpg");
+    background-size: cover;
+    background-position: center center;
+    margin: 10px 0 20px 0;
+}
+.falling canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    mix-blend-mode: color-dodge;
+}
+.falling h2 {
+    padding: 40px;
+    background: rgba(255,255,255,0.3);
+    position: relative;
+    z-index: 2;
+}
