@@ -185,13 +185,15 @@
 
 [deepnote lyctpu](https://deepnote.com/@lyctpu)
 
+[Jupyter Viewer](https://nbviewer.org/)
+
 [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=5fCEDCU_qrC0)
 
-[Гайд 1](https://webdevblog.ru/jupyter-notebook-dlya-nachinajushhih-uchebnik/)
+[Гайд 1 jupyter](https://webdevblog.ru/jupyter-notebook-dlya-nachinajushhih-uchebnik/)
 
-[Гайд 2](https://habr.com/ru/post/485318/)
+[Гайд 2 jupyter](https://habr.com/ru/post/485318/)
 
-[Продвинутвй гайд 1](https://habr.com/ru/company/wunderfund/blog/316826/)
+[Продвинутвй гайд 1 jupyter](https://habr.com/ru/company/wunderfund/blog/316826/)
 
 ------
 <p><a name="Квесты"></a></p>
