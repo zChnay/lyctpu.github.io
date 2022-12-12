@@ -147,13 +147,19 @@
 
 [ЕГЭ компоненты кода](https://deepnote.com/@lyctpu/ege-b9a3f885-0118-491c-8ce3-80eabda91810)
 
-[ЕГЭ в Excel](https://docs.google.com/spreadsheets/d/1uFQsXgk8wyZK4Q3axKS3t7WFXNkuiTOIcmE72mMsprw/edit?usp=sharing)
+[Сайт Полякова](https://kpolyakov.spb.ru/school/ege/generate.htm)
 
-![Урок на youtube](youtube16.png) [Канал Ивана Викторовича](https://www.youtube.com/c/IoanPlugar_inf)
+[Тренажер КЕГЭ](https://kompege.ru/)
+
+[Тренажер КЕГЭ 2](https://4ege.ru/trening-informatika/63131-trenazher-kompjuternogo-ege-po-informatike.html)
 
 [СДАТЬ ЕГЭ](https://foxford.ru/catalog/trainings/informatika/ege)
 
 [РЕШУ ЕГЭ](https://inf-ege.sdamgia.ru/)
+
+[ЕГЭ в Excel](https://docs.google.com/spreadsheets/d/1uFQsXgk8wyZK4Q3axKS3t7WFXNkuiTOIcmE72mMsprw/edit?usp=sharing)
+
+![Урок на youtube](youtube16.png) [Канал Ивана Викторовича](https://www.youtube.com/c/IoanPlugar_inf)
 
 ![Урок на youtube](youtube16.png) [Все программирование для ЕГЭ 2ч18м](https://www.youtube.com/watch?v=iTFwN9ckS9k)
 
